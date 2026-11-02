@@ -2,7 +2,16 @@ const Media = require('../models/mediaModel');
 
 exports.getAllMedia = async (req, res) => {
   try {
-    const media = await Media.find();
+    //building query
+    const queryObj = { ...req.query };
+    const excludedFields = ['page', 'limit', 'sort', 'fields'];
+    excludedFields.forEach((el) => delete queryObj[el]);
+
+    //executing query
+    //This is done like this so we can chain other querying methods
+    const query = Media.find(queryObj);
+    const media = await query;
+
     res.status(200).json({
       status: 'success',
       results: media.length,
