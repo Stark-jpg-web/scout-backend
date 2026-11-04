@@ -1,0 +1,2843 @@
+[
+  {
+    "tmdbId": 27205,
+    "mediaType": "movie",
+    "title": "Inception",
+    "originalTitle": "Inception",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to regain his old life as payment for an impossible task: inception.",
+    "posterPath": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "backdropPath": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    "releaseDate": "2010-07-16",
+    "voteAverage": 8.4,
+    "voteCount": 36000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "runtime": 148,
+    "budget": 160000000,
+    "revenue": 836836967,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 157336,
+    "mediaType": "movie",
+    "title": "Interstellar",
+    "originalTitle": "Interstellar",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "posterPath": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdropPath": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+    "releaseDate": "2014-11-05",
+    "voteAverage": 8.4,
+    "voteCount": 34000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 169,
+    "budget": 165000000,
+    "revenue": 701729206,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 155,
+    "mediaType": "movie",
+    "title": "The Dark Knight",
+    "originalTitle": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets.",
+    "posterPath": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdropPath": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+    "releaseDate": "2008-07-16",
+    "voteAverage": 8.5,
+    "voteCount": 32000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 152,
+    "budget": 185000000,
+    "revenue": 1004558444,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 680,
+    "mediaType": "movie",
+    "title": "Pulp Fiction",
+    "originalTitle": "Pulp Fiction",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in four tales of violence and redemption.",
+    "posterPath": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "backdropPath": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "releaseDate": "1994-09-10",
+    "voteAverage": 8.5,
+    "voteCount": 27000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "runtime": 154,
+    "budget": 8000000,
+    "revenue": 213928762,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 550,
+    "mediaType": "movie",
+    "title": "Fight Club",
+    "originalTitle": "Fight Club",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy.",
+    "posterPath": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "backdropPath": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "releaseDate": "1999-10-15",
+    "voteAverage": 8.4,
+    "voteCount": 28000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 139,
+    "budget": 63000000,
+    "revenue": 100853753,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 13,
+    "mediaType": "movie",
+    "title": "Forrest Gump",
+    "originalTitle": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do.",
+    "posterPath": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "backdropPath": "/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+    "releaseDate": "1994-06-23",
+    "voteAverage": 8.5,
+    "voteCount": 26000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "runtime": 142,
+    "budget": 55000000,
+    "revenue": 677387716,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 278,
+    "mediaType": "movie",
+    "title": "The Shawshank Redemption",
+    "originalTitle": "The Shawshank Redemption",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison.",
+    "posterPath": "/9cqNivkSoBD57btmhmqosRRPnl.jpg",
+    "backdropPath": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "releaseDate": "1994-09-23",
+    "voteAverage": 8.7,
+    "voteCount": 27000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "runtime": 142,
+    "budget": 25000000,
+    "revenue": 28341469,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 238,
+    "mediaType": "movie",
+    "title": "The Godfather",
+    "originalTitle": "The Godfather",
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in.",
+    "posterPath": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdropPath": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+    "releaseDate": "1972-03-14",
+    "voteAverage": 8.7,
+    "voteCount": 20000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "runtime": 175,
+    "budget": 6000000,
+    "revenue": 245066411,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 240,
+    "mediaType": "movie",
+    "title": "The Godfather Part II",
+    "originalTitle": "The Godfather Part II",
+    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "posterPath": "/hek3koDUyMrk7ilW5eEv63Bu5JB.jpg",
+    "backdropPath": "/kGzFbGhp99zva6vdZ2yoVI5thPS.jpg",
+    "releaseDate": "1974-12-20",
+    "voteAverage": 8.6,
+    "voteCount": 12000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "runtime": 202,
+    "budget": 13000000,
+    "revenue": 102600000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 769,
+    "mediaType": "movie",
+    "title": "GoodFellas",
+    "originalTitle": "GoodFellas",
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family.",
+    "posterPath": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "backdropPath": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+    "releaseDate": "1990-09-12",
+    "voteAverage": 8.5,
+    "voteCount": 12500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "runtime": 145,
+    "budget": 25000000,
+    "revenue": 46836394,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 129,
+    "mediaType": "movie",
+    "title": "Spirited Away",
+    "originalTitle": "千と千尋の神隠し",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had.",
+    "posterPath": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "backdropPath": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+    "releaseDate": "2001-07-20",
+    "voteAverage": 8.5,
+    "voteCount": 16000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "runtime": 125,
+    "budget": 19000000,
+    "revenue": 395580000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 496243,
+    "mediaType": "movie",
+    "title": "Parasite",
+    "originalTitle": "기생충",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "posterPath": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdropPath": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+    "releaseDate": "2019-05-30",
+    "voteAverage": 8.5,
+    "voteCount": 17500,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 133,
+    "budget": 11400000,
+    "revenue": 258773045,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 244786,
+    "mediaType": "movie",
+    "title": "Whiplash",
+    "originalTitle": "Whiplash",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "posterPath": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "backdropPath": "/6bbZ6XyvgfjhQwbplnUh1LSj1ky.jpg",
+    "releaseDate": "2014-10-10",
+    "voteAverage": 8.4,
+    "voteCount": 14500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 107,
+    "budget": 3300000,
+    "revenue": 49000000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 98,
+    "mediaType": "movie",
+    "title": "Gladiator",
+    "originalTitle": "Gladiator",
+    "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into turmoil. Maximus, one of the Roman army's most capable generals, is betrayed and condemned to death.",
+    "posterPath": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "backdropPath": "/Ar7ip40v5kpmU22vkn3HQZ6v8gQ.jpg",
+    "releaseDate": "2000-05-01",
+    "voteAverage": 8.2,
+    "voteCount": 18000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "runtime": 155,
+    "budget": 103000000,
+    "revenue": 460583960,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 1422,
+    "mediaType": "movie",
+    "title": "The Departed",
+    "originalTitle": "The Departed",
+    "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise in the police department.",
+    "posterPath": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+    "backdropPath": "/c8A4fK55zI2r8h2f5Z3YpE7qN8b.jpg",
+    "releaseDate": "2006-10-05",
+    "voteAverage": 8.2,
+    "voteCount": 14000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 151,
+    "budget": 90000000,
+    "revenue": 291465033,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 1124,
+    "mediaType": "movie",
+    "title": "The Prestige",
+    "originalTitle": "The Prestige",
+    "overview": "A mysterious story of two magicians whose intense desire to uncover each other's secrets leads them to fantastic illusions and dangerous consequences.",
+    "posterPath": "/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg",
+    "backdropPath": "/o1kWdG4DauO11P6aK2sE2b5X6gS.jpg",
+    "releaseDate": "2006-10-19",
+    "voteAverage": 8.2,
+    "voteCount": 15500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 130,
+    "budget": 40000000,
+    "revenue": 109676311,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 77,
+    "mediaType": "movie",
+    "title": "Memento",
+    "originalTitle": "Memento",
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss.",
+    "posterPath": "/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg",
+    "backdropPath": "/bdD39MpS2mUSjNuUvykXwE0G9vH.jpg",
+    "releaseDate": "2000-10-11",
+    "voteAverage": 8.2,
+    "voteCount": 14200,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 113,
+    "budget": 9000000,
+    "revenue": 39723096,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 348,
+    "mediaType": "movie",
+    "title": "Alien",
+    "originalTitle": "Alien",
+    "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew investigates the technique, they discover a hive of unknown creatures.",
+    "posterPath": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "backdropPath": "/AmR3JG1DYz53KXL2z9Y928f6L52.jpg",
+    "releaseDate": "1979-05-25",
+    "voteAverage": 8.1,
+    "voteCount": 14000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 117,
+    "budget": 11000000,
+    "revenue": 104931801,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 679,
+    "mediaType": "movie",
+    "title": "Aliens",
+    "originalTitle": "Aliens",
+    "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years.",
+    "posterPath": "/r1x5JGpyqVU8umxi005X05Ur9H5.jpg",
+    "backdropPath": "/90A45qVbH6zWl3K1b4uQ8L6V3K8.jpg",
+    "releaseDate": "1986-07-18",
+    "voteAverage": 7.9,
+    "voteCount": 9200,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 137,
+    "budget": 18500000,
+    "revenue": 183316455,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 335984,
+    "mediaType": "movie",
+    "title": "Blade Runner 2049",
+    "originalTitle": "Blade Runner 2049",
+    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos.",
+    "posterPath": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdropPath": "/eScZrXQ2t9q7B3X910a3D5WfK.jpg",
+    "releaseDate": "2017-10-04",
+    "voteAverage": 7.6,
+    "voteCount": 13000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 164,
+    "budget": 150000000,
+    "revenue": 259239658,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 438631,
+    "mediaType": "movie",
+    "title": "Dune",
+    "originalTitle": "Dune",
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.",
+    "posterPath": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "backdropPath": "/iopYFB1b6Bh7FWZh3onQhph1sih.jpg",
+    "releaseDate": "2021-09-15",
+    "voteAverage": 7.8,
+    "voteCount": 11500,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "runtime": 155,
+    "budget": 165000000,
+    "revenue": 402027583,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 693134,
+    "mediaType": "movie",
+    "title": "Dune: Part Two",
+    "originalTitle": "Dune: Part Two",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+    "posterPath": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "backdropPath": "/xOMo8BRK7PfcJv9JCnx7s52002.jpg",
+    "releaseDate": "2024-02-27",
+    "voteAverage": 8.2,
+    "voteCount": 6500,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "runtime": 166,
+    "budget": 190000000,
+    "revenue": 711844358,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 872585,
+    "mediaType": "movie",
+    "title": "Oppenheimer",
+    "originalTitle": "Oppenheimer",
+    "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    "posterPath": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "backdropPath": "/rMvPXy8PUjj1o8um1x1Ohvm2rvQ.jpg",
+    "releaseDate": "2023-07-19",
+    "voteAverage": 8.1,
+    "voteCount": 8900,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "runtime": 181,
+    "budget": 100000000,
+    "revenue": 957000000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 324857,
+    "mediaType": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "originalTitle": "Spider-Man: Into the Spider-Verse",
+    "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson 'Kingpin' Fisk uses a super collider, others from across the multiverse cross over.",
+    "posterPath": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdropPath": "/qGQe2954aN8mB7vGfXz34w077yC.jpg",
+    "releaseDate": "2018-12-01",
+    "voteAverage": 8.4,
+    "voteCount": 15000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 117,
+    "budget": 90000000,
+    "revenue": 375540831,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 569094,
+    "mediaType": "movie",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "originalTitle": "Spider-Man: Across the Spider-Verse",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn's full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society.",
+    "posterPath": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdropPath": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+    "releaseDate": "2023-05-31",
+    "voteAverage": 8.4,
+    "voteCount": 7100,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 140,
+    "budget": 100000000,
+    "revenue": 690516673,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 299536,
+    "mediaType": "movie",
+    "title": "Avengers: Infinity War",
+    "originalTitle": "Avengers: Infinity War",
+    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos.",
+    "posterPath": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "backdropPath": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+    "releaseDate": "2018-04-25",
+    "voteAverage": 8.3,
+    "voteCount": 29000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 149,
+    "budget": 300000000,
+    "revenue": 2052415039,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 299534,
+    "mediaType": "movie",
+    "title": "Avengers: Endgame",
+    "originalTitle": "Avengers: Endgame",
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more.",
+    "posterPath": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "backdropPath": "/7RyHsO4yDXtBv1zJW819TInE4eA.jpg",
+    "releaseDate": "2019-04-24",
+    "voteAverage": 8.3,
+    "voteCount": 25000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "runtime": 181,
+    "budget": 356000000,
+    "revenue": 2799439100,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 120,
+    "mediaType": "movie",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home behind to keep it out of the hands of its evil creator.",
+    "posterPath": "/6oom5QYQ2yQTMJIbnvbkBL9cDK6.jpg",
+    "backdropPath": "/vRQnzOn4H1vt6ir046Z1pGeNjd8.jpg",
+    "releaseDate": "2001-12-18",
+    "voteAverage": 8.4,
+    "voteCount": 24500,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "runtime": 178,
+    "budget": 93000000,
+    "revenue": 897690072,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 121,
+    "mediaType": "movie",
+    "title": "The Lord of the Rings: The Two Towers",
+    "originalTitle": "The Lord of the Rings: The Two Towers",
+    "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin.",
+    "posterPath": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "backdropPath": "/k2z5pS9j72b2c9cQ0E0B1eE1H5r.jpg",
+    "releaseDate": "2002-12-18",
+    "voteAverage": 8.4,
+    "voteCount": 21500,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "runtime": 179,
+    "budget": 94000000,
+    "revenue": 947495095,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 122,
+    "mediaType": "movie",
+    "title": "The Lord of the Rings: The Return of the King",
+    "originalTitle": "The Lord of the Rings: The Return of the King",
+    "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces.",
+    "posterPath": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "backdropPath": "/lXhgCODAbBXL5buk9yEmTPhoMyV.jpg",
+    "releaseDate": "2003-12-01",
+    "voteAverage": 8.6,
+    "voteCount": 23500,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "runtime": 201,
+    "budget": 94000000,
+    "revenue": 1146030912,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 1891,
+    "mediaType": "movie",
+    "title": "The Empire Strikes Back",
+    "originalTitle": "The Empire Strikes Back",
+    "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda.",
+    "posterPath": "/nDA9ijepqT165NZof5bBM2YsUu8.jpg",
+    "backdropPath": "/dMZZ3QcrF3i6vgG95x5oF9L4iQ4.jpg",
+    "releaseDate": "1980-05-20",
+    "voteAverage": 8.4,
+    "voteCount": 16500,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 124,
+    "budget": 18000000,
+    "revenue": 538375067,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 329,
+    "mediaType": "movie",
+    "title": "Jurassic Park",
+    "originalTitle": "Jurassic Park",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA.",
+    "posterPath": "/oU7Oq2kFAAlGqbU4VoAE36g4ho1.jpg",
+    "backdropPath": "/bKxiLRPVWe2nZUCy062AIE899DM.jpg",
+    "releaseDate": "1993-06-11",
+    "voteAverage": 8,
+    "voteCount": 16000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 127,
+    "budget": 63000000,
+    "revenue": 1046446114,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 280,
+    "mediaType": "movie",
+    "title": "Terminator 2: Judgment Day",
+    "originalTitle": "Terminator 2: Judgment Day",
+    "overview": "Nearly 10 years have passed since Sarah Connor was targeted for termination by a cyborg from the future. Now her son, John, the future leader of the resistance, is the target.",
+    "posterPath": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+    "backdropPath": "/xKb6bv0rQ0C8h2V5n4b8n1A7n5.jpg",
+    "releaseDate": "1991-07-03",
+    "voteAverage": 8.1,
+    "voteCount": 12500,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 137,
+    "budget": 102000000,
+    "revenue": 520881154,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 105,
+    "mediaType": "movie",
+    "title": "Back to the Future",
+    "originalTitle": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955 in a plutonium-powered DeLorean \"time machine\" invented by slightly mad scientist Doc Brown.",
+    "posterPath": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "backdropPath": "/5rz9nyKe4kFq3a29X9c9M2wV6Q8.jpg",
+    "releaseDate": "1985-07-03",
+    "voteAverage": 8.3,
+    "voteCount": 19000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 116,
+    "budget": 19000000,
+    "revenue": 381109762,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 274,
+    "mediaType": "movie",
+    "title": "The Silence of the Lambs",
+    "originalTitle": "The Silence of the Lambs",
+    "overview": "Clarice Starling is a top student at the FBI's training academy. Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath.",
+    "posterPath": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "backdropPath": "/mfwq2nMBzArzQ7Y9RGL8tw3wNZX.jpg",
+    "releaseDate": "1991-02-01",
+    "voteAverage": 8.3,
+    "voteCount": 15500,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 118,
+    "budget": 19000000,
+    "revenue": 272742922,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 807,
+    "mediaType": "movie",
+    "title": "Se7en",
+    "originalTitle": "Se7en",
+    "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film.",
+    "posterPath": "/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+    "backdropPath": "/ba4CpvnwP49gU245cQ8L4F1hQ5r.jpg",
+    "releaseDate": "1995-09-22",
+    "voteAverage": 8.4,
+    "voteCount": 20500,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 127,
+    "budget": 33000000,
+    "revenue": 327311859,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 37165,
+    "mediaType": "movie",
+    "title": "The Truman Show",
+    "originalTitle": "The Truman Show",
+    "overview": "Truman Burbank is the star of \"The Truman Show\", a 24-hour-a-day reality TV show that broadcasts every aspect of his life without his knowledge.",
+    "posterPath": "/vuza0WqY239gB2PRuhay4jXBYHQ.jpg",
+    "backdropPath": "/7x36qV99x69M7C5F7b6M7t6X5b9.jpg",
+    "releaseDate": "1998-06-04",
+    "voteAverage": 8.1,
+    "voteCount": 17500,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 103,
+    "budget": 60000000,
+    "revenue": 264118201,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 38,
+    "mediaType": "movie",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "originalTitle": "Eternal Sunshine of the Spotless Mind",
+    "overview": "Joel Barish, heartbroken that his girlfriend Clementine underwent a procedure to erase him from her memory, decides to do the same.",
+    "posterPath": "/5MwkWH9tYHv3mV9OdYTMR5q9IzL.jpg",
+    "backdropPath": "/u5HkL6e2q4P8K9c7T3w5c6h5Q4b.jpg",
+    "releaseDate": "2004-03-19",
+    "voteAverage": 8.1,
+    "voteCount": 14500,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "runtime": 108,
+    "budget": 20000000,
+    "revenue": 74036715,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 6977,
+    "mediaType": "movie",
+    "title": "No Country for Old Men",
+    "originalTitle": "No Country for Old Men",
+    "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it.",
+    "posterPath": "/6d5XOczc83aJg77QG559A0837vX.jpg",
+    "backdropPath": "/3x7hW5P8i2p7X6K4u7X4M8x7P5.jpg",
+    "releaseDate": "2007-10-18",
+    "voteAverage": 7.9,
+    "voteCount": 11500,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 122,
+    "budget": 25000000,
+    "revenue": 171627166,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 7345,
+    "mediaType": "movie",
+    "title": "There Will Be Blood",
+    "originalTitle": "There Will Be Blood",
+    "overview": "Ruthless silver miner turned oil prospector Daniel Plainview moves to oil-rich California in the early 20th century in search of wealth.",
+    "posterPath": "/fa0RDkAlL4faIf7azBtqLMaoVuy.jpg",
+    "backdropPath": "/yX2hR6J5g5P9t8T5P3C7M2K5t6.jpg",
+    "releaseDate": "2007-12-28",
+    "voteAverage": 8.1,
+    "voteCount": 6500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 158,
+    "budget": 25000000,
+    "revenue": 76181545,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 68718,
+    "mediaType": "movie",
+    "title": "Django Unchained",
+    "originalTitle": "Django Unchained",
+    "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "posterPath": "/7oWY8vd27zAU2sq9nv8um9iOSOC.jpg",
+    "backdropPath": "/2oZSFW7Zg0bN71E7m8K5s2M5t6.jpg",
+    "releaseDate": "2012-12-25",
+    "voteAverage": 8.2,
+    "voteCount": 25500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "runtime": 165,
+    "budget": 100000000,
+    "revenue": 425368238,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 16869,
+    "mediaType": "movie",
+    "title": "Inglourious Basterds",
+    "originalTitle": "Inglourious Basterds",
+    "overview": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans.",
+    "posterPath": "/7sfbEnaARXDD5Km007MsHdY9n0.jpg",
+    "backdropPath": "/k2f5s0X7n7Y2g6M8X5v4M7P9t8.jpg",
+    "releaseDate": "2009-08-19",
+    "voteAverage": 8.2,
+    "voteCount": 21800,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "runtime": 153,
+    "budget": 70000000,
+    "revenue": 321455689,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 120467,
+    "mediaType": "movie",
+    "title": "The Grand Budapest Hotel",
+    "originalTitle": "The Grand Budapest Hotel",
+    "overview": "The Grand Budapest Hotel recounts the adventures of legendary concierge Gustave H. and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
+    "posterPath": "/eWdyYQreja6JGCzqHWX9ne3rNfg.jpg",
+    "backdropPath": "/7t8r7R0P2x9b7K6n5t7Y8m4C3d.jpg",
+    "releaseDate": "2014-02-26",
+    "voteAverage": 8,
+    "voteCount": 14000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 100,
+    "budget": 25000000,
+    "revenue": 172936941,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 313369,
+    "mediaType": "movie",
+    "title": "La La Land",
+    "originalTitle": "La La Land",
+    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars.",
+    "posterPath": "/uDO8zWDhfWwoFdKS4fzkVJt0Rf0.jpg",
+    "backdropPath": "/qjeXZfS778L8wY7D9vF07f6e3.jpg",
+    "releaseDate": "2016-12-01",
+    "voteAverage": 7.9,
+    "voteCount": 16200,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "runtime": 128,
+    "budget": 30000000,
+    "revenue": 447407695,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 76341,
+    "mediaType": "movie",
+    "title": "Mad Max: Fury Road",
+    "originalTitle": "Mad Max: Fury Road",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life.",
+    "posterPath": "/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    "backdropPath": "/nlCHUW2Y9XWbuR2nn7wY7b9m.jpg",
+    "releaseDate": "2015-05-13",
+    "voteAverage": 7.6,
+    "voteCount": 22000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 120,
+    "budget": 150000000,
+    "revenue": 378858340,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 545611,
+    "mediaType": "movie",
+    "title": "Everything Everywhere All at Once",
+    "originalTitle": "Everything Everywhere All at Once",
+    "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+    "posterPath": "/w3LxiVYPq6nid497GFJGFFMe522.jpg",
+    "backdropPath": "/f1AQhx6ZfytnWgyGEG3AH398m.jpg",
+    "releaseDate": "2022-03-24",
+    "voteAverage": 7.8,
+    "voteCount": 6000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 140,
+    "budget": 25000000,
+    "revenue": 141200000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 361743,
+    "mediaType": "movie",
+    "title": "Top Gun: Maverick",
+    "originalTitle": "Top Gun: Maverick",
+    "overview": "After more than thirty years of service as one of the Navy’s top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank.",
+    "posterPath": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "backdropPath": "/odJ4hx6g6v4m6b5L4c8d9E7m.jpg",
+    "releaseDate": "2022-05-24",
+    "voteAverage": 8.2,
+    "voteCount": 8500,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 130,
+    "budget": 170000000,
+    "revenue": 1493491858,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 106646,
+    "mediaType": "movie",
+    "title": "The Wolf of Wall Street",
+    "originalTitle": "The Wolf of Wall Street",
+    "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, the corporate banking world and mob infiltration.",
+    "posterPath": "/kW9Lh89GssI5SMN1m1Z2m8X0O3P.jpg",
+    "backdropPath": "/cWUOv3H7YcvFaO0N1x4j5L6o8k.jpg",
+    "releaseDate": "2013-12-25",
+    "voteAverage": 8,
+    "voteCount": 23000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "runtime": 180,
+    "budget": 100000000,
+    "revenue": 392000694,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 11324,
+    "mediaType": "movie",
+    "title": "Shutter Island",
+    "originalTitle": "Shutter Island",
+    "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane on Boston Harbor's Shutter Island.",
+    "posterPath": "/4GDy0PHYX3VRXUtwK5ysagvk2Hg.jpg",
+    "backdropPath": "/2CAL2433ZeIihIAp8z7i0N3a8b.jpg",
+    "releaseDate": "2010-02-14",
+    "voteAverage": 8.2,
+    "voteCount": 23500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 138,
+    "budget": 80000000,
+    "revenue": 294804195,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 103,
+    "mediaType": "movie",
+    "title": "Taxi Driver",
+    "originalTitle": "Taxi Driver",
+    "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze fuels his urge for violent action.",
+    "posterPath": "/ekstpH69PgBh2umtx3UFAwhrZgm.jpg",
+    "backdropPath": "/7T6g0R1y6X4b8H6q3o7r2L4v5b.jpg",
+    "releaseDate": "1976-02-09",
+    "voteAverage": 8.1,
+    "voteCount": 11800,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 114,
+    "budget": 1900000,
+    "revenue": 28262574,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 28,
+    "mediaType": "movie",
+    "title": "Apocalypse Now",
+    "originalTitle": "Apocalypse Now",
+    "overview": "At the height of the Vietnam war, Captain Benjamin L. Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\"",
+    "posterPath": "/gQB8Y5RScVfZ9zgYrLoAUioqqpZ.jpg",
+    "backdropPath": "/4F3e8p4B7k9n2b7v6m3x5k4m8n.jpg",
+    "releaseDate": "1979-08-15",
+    "voteAverage": 8.3,
+    "voteCount": 8000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "runtime": 147,
+    "budget": 31500000,
+    "revenue": 100000000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 62,
+    "mediaType": "movie",
+    "title": "2001: A Space Odyssey",
+    "originalTitle": "2001: A Space Odyssey",
+    "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced supercomputer.",
+    "posterPath": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "backdropPath": "/e6a8775v3b6n4K8m9c7X5m8v7.jpg",
+    "releaseDate": "1968-04-02",
+    "voteAverage": 8.1,
+    "voteCount": 11200,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "runtime": 149,
+    "budget": 12000000,
+    "revenue": 68700000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 289,
+    "mediaType": "movie",
+    "title": "Casablanca",
+    "originalTitle": "Casablanca",
+    "overview": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+    "posterPath": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+    "backdropPath": "/a87k9X4b6m7c5X8v9n3b7v6.jpg",
+    "releaseDate": "1942-11-26",
+    "voteAverage": 8.2,
+    "voteCount": 5200,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "runtime": 102,
+    "budget": 1000000,
+    "revenue": 4144994,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 539,
+    "mediaType": "movie",
+    "title": "Psycho",
+    "originalTitle": "Psycho",
+    "overview": "When fugitive real estate clerk Marion Crane arrives at a secluded motel, she meets the lonely manager, Norman Bates.",
+    "posterPath": "/yz4QVqPx3h1hD19yapx07Q15ipV.jpg",
+    "backdropPath": "/3b8X7m9v4c6X8n9v2b5m6c7.jpg",
+    "releaseDate": "1960-06-22",
+    "voteAverage": 8.4,
+    "voteCount": 9800,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "runtime": 109,
+    "budget": 807000,
+    "revenue": 50000000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 567,
+    "mediaType": "movie",
+    "title": "Rear Window",
+    "originalTitle": "Rear Window",
+    "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+    "posterPath": "/ILVF059wrMddIksqQvl5nbQ9GZ.jpg",
+    "backdropPath": "/2b8X6m9v4c5b7n8m9c6v5b4.jpg",
+    "releaseDate": "1954-08-01",
+    "voteAverage": 8.4,
+    "voteCount": 6300,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 112,
+    "budget": 1000000,
+    "revenue": 36764547,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 354912,
+    "mediaType": "movie",
+    "title": "Coco",
+    "originalTitle": "Coco",
+    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz.",
+    "posterPath": "/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "backdropPath": "/askg3SMvhqEl4OL52YuvdtQw40.jpg",
+    "releaseDate": "2017-10-27",
+    "voteAverage": 8.2,
+    "voteCount": 18900,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "runtime": 105,
+    "budget": 175000000,
+    "revenue": 807082196,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 10681,
+    "mediaType": "movie",
+    "title": "WALL·E",
+    "originalTitle": "WALL·E",
+    "overview": "What if mankind had to leave Earth and somebody forgot to turn the last robot off? Spending hundreds of years doing what he was built for, WALL-E discovers a new purpose.",
+    "posterPath": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "backdropPath": "/fK5ssFhYT4BsfsL52Sm39imvva2.jpg",
+    "releaseDate": "2008-06-22",
+    "voteAverage": 8.1,
+    "voteCount": 18200,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 98,
+    "budget": 180000000,
+    "revenue": 521311860,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 14160,
+    "mediaType": "movie",
+    "title": "Up",
+    "originalTitle": "Up",
+    "overview": "Carl Fredricksen, a 78-year-old balloon salesman, ties thousands of balloons to his house and flies away to the South American wilderness, only to find he has a stowaway.",
+    "posterPath": "/vpbaStTMt8qqGBvYdpWspviwAh1.jpg",
+    "backdropPath": "/7x6n9v5c4b8n9m2c5b7v6m8.jpg",
+    "releaseDate": "2009-05-28",
+    "voteAverage": 8,
+    "voteCount": 19800,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "runtime": 96,
+    "budget": 175000000,
+    "revenue": 735099082,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 862,
+    "mediaType": "movie",
+    "title": "Toy Story",
+    "originalTitle": "Toy Story",
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz.",
+    "posterPath": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "backdropPath": "/lxDMCrwkxUpt8Q2G0T6N8.jpg",
+    "releaseDate": "1995-10-30",
+    "voteAverage": 8,
+    "voteCount": 17800,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "runtime": 81,
+    "budget": 30000000,
+    "revenue": 373554033,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 2062,
+    "mediaType": "movie",
+    "title": "Ratatouille",
+    "originalTitle": "Ratatouille",
+    "overview": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef of a top restaurant despite the obvious problem of being a rat.",
+    "posterPath": "/t3vaWRPSf6WjDSamIkKkrUpQ2nR.jpg",
+    "backdropPath": "/ex4b7n9m2c5v7b8n9m3c5.jpg",
+    "releaseDate": "2007-06-28",
+    "voteAverage": 7.8,
+    "voteCount": 16500,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "runtime": 111,
+    "budget": 150000000,
+    "revenue": 623722818,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 8587,
+    "mediaType": "movie",
+    "title": "The Lion King",
+    "originalTitle": "The Lion King",
+    "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah.",
+    "posterPath": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "backdropPath": "/7x3b7n9m2c5v8n9m4c6b8v5.jpg",
+    "releaseDate": "1994-06-23",
+    "voteAverage": 8.3,
+    "voteCount": 18200,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 89,
+    "budget": 45000000,
+    "revenue": 968511805,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 128,
+    "mediaType": "movie",
+    "title": "Princess Mononoke",
+    "originalTitle": "もののけ姫",
+    "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must travel to the west to find a cure. Along the way, he encounters San, a young human woman fighting for the forest.",
+    "posterPath": "/cmyPw4dhyfBhFv2dEsw10k5vCgE.jpg",
+    "backdropPath": "/8x7b9m2c5v8n9m4c6b8v5c7.jpg",
+    "releaseDate": "1997-07-12",
+    "voteAverage": 8.3,
+    "voteCount": 7800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ],
+    "runtime": 134,
+    "budget": 23500000,
+    "revenue": 169785629,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 372058,
+    "mediaType": "movie",
+    "title": "Your Name.",
+    "originalTitle": "君の名は。",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers.",
+    "posterPath": "/q719jXXEzOoYaps6qFsCGEkWqP5.jpg",
+    "backdropPath": "/dIWwZW7dJJ1qC6CwhPaWnUmCYe1.jpg",
+    "releaseDate": "2016-08-26",
+    "voteAverage": 8.5,
+    "voteCount": 11000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 106,
+    "budget": 25000000,
+    "revenue": 357986087,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 670,
+    "mediaType": "movie",
+    "title": "Oldboy",
+    "originalTitle": "올드보이",
+    "overview": "With no clue how he came to be imprisoned, drugged and held for 15 years, a desperate businessman seeks revenge on his captors.",
+    "posterPath": "/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+    "backdropPath": "/6v8b9m2c5v8n9m4c6b8v5.jpg",
+    "releaseDate": "2003-11-21",
+    "voteAverage": 8.3,
+    "voteCount": 8500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 120,
+    "budget": 3000000,
+    "revenue": 15400000,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 598,
+    "mediaType": "movie",
+    "title": "City of God",
+    "originalTitle": "Cidade de Deus",
+    "overview": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "posterPath": "/k7eYdWvhYQMY4st0F9Bv1tPqAed.jpg",
+    "backdropPath": "/5b8n9m2c5v8n9m4c6b8v5.jpg",
+    "releaseDate": "2002-02-05",
+    "voteAverage": 8.4,
+    "voteCount": 7200,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "runtime": 130,
+    "budget": 3300000,
+    "revenue": 30641770,
+    "status": "Released"
+  },
+  {
+    "tmdbId": 1396,
+    "mediaType": "tv",
+    "title": "Breaking Bad",
+    "originalTitle": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of two years left to live. He chooses to enter a dangerous world of drugs and crime.",
+    "posterPath": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "backdropPath": "/tsRy63Mu5cu8etL1X7ZLyf7UP19.jpg",
+    "releaseDate": "2008-01-20",
+    "voteAverage": 8.9,
+    "voteCount": 14000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "numberOfSeasons": 5,
+    "numberOfEpisodes": 62,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 60059,
+    "mediaType": "tv",
+    "title": "Better Call Saul",
+    "originalTitle": "Better Call Saul",
+    "overview": "Six years before he begins to represent Albuquerque's most notorious criminals, Jimmy McGill is a small-time lawyer hustling to champion his underdog clients.",
+    "posterPath": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+    "backdropPath": "/hPea3Qy5Gd6z40LUy5Q9L7s8E7.jpg",
+    "releaseDate": "2015-02-08",
+    "voteAverage": 8.7,
+    "voteCount": 5200,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 6,
+    "numberOfEpisodes": 63,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 1399,
+    "mediaType": "tv",
+    "title": "Game of Thrones",
+    "originalTitle": "Game of Thrones",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war while a long-forgotten evil awakens.",
+    "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "backdropPath": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "releaseDate": "2011-04-17",
+    "voteAverage": 8.4,
+    "voteCount": 23000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "numberOfSeasons": 8,
+    "numberOfEpisodes": 73,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 94997,
+    "mediaType": "tv",
+    "title": "House of the Dragon",
+    "originalTitle": "House of the Dragon",
+    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires fall from the outside, but their downfall begins from within.",
+    "posterPath": "/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg",
+    "backdropPath": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+    "releaseDate": "2022-08-21",
+    "voteAverage": 8.4,
+    "voteCount": 4600,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 18,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 76331,
+    "mediaType": "tv",
+    "title": "Succession",
+    "originalTitle": "Succession",
+    "overview": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their aging father steps down from the company.",
+    "posterPath": "/7HXBGvN4vWj9jG6M9v4c6b8v5.jpg",
+    "backdropPath": "/ygn4n0GzX4b7n9m2c5v8n9m4c.jpg",
+    "releaseDate": "2018-06-03",
+    "voteAverage": 8.6,
+    "voteCount": 2200,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 4,
+    "numberOfEpisodes": 39,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 1398,
+    "mediaType": "tv",
+    "title": "The Sopranos",
+    "originalTitle": "The Sopranos",
+    "overview": "The story of New Jersey mob boss Tony Soprano, dealing with personal and professional issues in his home and business life that affect his mental state.",
+    "posterPath": "/6nT5H2B9p9m4c6b8v5c7X5m8v7.jpg",
+    "backdropPath": "/7x3b7n9m2c5v8n9m4c6b8v5c7.jpg",
+    "releaseDate": "1999-01-10",
+    "voteAverage": 8.6,
+    "voteCount": 2800,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "numberOfSeasons": 6,
+    "numberOfEpisodes": 86,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 1438,
+    "mediaType": "tv",
+    "title": "The Wire",
+    "originalTitle": "The Wire",
+    "overview": "Told from the points of view of both the Baltimore police and their targets, this series captures a universe of subterfuge and surveillance in the drug trade.",
+    "posterPath": "/4lbclFySvugI51fwsbhB09Dgne1.jpg",
+    "backdropPath": "/2b8X6m9v4c5b7n8m9c6v5b4c7.jpg",
+    "releaseDate": "2002-06-02",
+    "voteAverage": 8.5,
+    "voteCount": 2300,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 5,
+    "numberOfEpisodes": 60,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 66732,
+    "mediaType": "tv",
+    "title": "Stranger Things",
+    "originalTitle": "Stranger Things",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+    "posterPath": "/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+    "backdropPath": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "releaseDate": "2016-07-15",
+    "voteAverage": 8.6,
+    "voteCount": 17000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "numberOfSeasons": 4,
+    "numberOfEpisodes": 34,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 95396,
+    "mediaType": "tv",
+    "title": "Severance",
+    "originalTitle": "Severance",
+    "overview": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth.",
+    "posterPath": "/pGknJ8Q7oQZ6yP3r6l8L5h5b9.jpg",
+    "backdropPath": "/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg",
+    "releaseDate": "2022-02-17",
+    "voteAverage": 8.4,
+    "voteCount": 1600,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 19,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 100088,
+    "mediaType": "tv",
+    "title": "The Last of Us",
+    "originalTitle": "The Last of Us",
+    "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone.",
+    "posterPath": "/uKvVjHNqB5VmOrdxqAt2V7JMrQI.jpg",
+    "backdropPath": "/2OMB0ynKlyIenMJWI2Dy9IWT4c7.jpg",
+    "releaseDate": "2023-01-15",
+    "voteAverage": 8.6,
+    "voteCount": 5100,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 16,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 87108,
+    "mediaType": "tv",
+    "title": "Chernobyl",
+    "originalTitle": "Chernobyl",
+    "overview": "The true story of one of the worst human-made catastrophes in history: the catastrophic explosion of the Chernobyl Nuclear Power Plant in April 1986.",
+    "posterPath": "/hlLXt2tOPT6RRnjiUmoxyG9LTFi.jpg",
+    "backdropPath": "/90A45qVbH6zWl3K1b4uQ8L6V3K9.jpg",
+    "releaseDate": "2019-05-06",
+    "voteAverage": 8.7,
+    "voteCount": 6100,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 5,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 46648,
+    "mediaType": "tv",
+    "title": "True Detective",
+    "originalTitle": "True Detective",
+    "overview": "An American anthology police procedural drama television series created and written by Nic Pizzolatto.",
+    "posterPath": "/aOWUF4M01WW79UpumCF47guBEr6.jpg",
+    "backdropPath": "/3b8X7m9v4c6X8n9v2b5m6c7c8.jpg",
+    "releaseDate": "2014-01-12",
+    "voteAverage": 8.3,
+    "voteCount": 3400,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "numberOfSeasons": 4,
+    "numberOfEpisodes": 30,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 57243,
+    "mediaType": "tv",
+    "title": "Fargo",
+    "originalTitle": "Fargo",
+    "overview": "A close-knit anthology series following various chronicles of deception, intrigue and murder in and around frozen Minnesota.",
+    "posterPath": "/7t9x6m4v3b2c1n5m6k7h8g9.jpg",
+    "backdropPath": "/7x3b7n9m2c5v8n9m4c6b8v5c8.jpg",
+    "releaseDate": "2014-04-15",
+    "voteAverage": 8.5,
+    "voteCount": 2600,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 5,
+    "numberOfEpisodes": 51,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 67744,
+    "mediaType": "tv",
+    "title": "Mindhunter",
+    "originalTitle": "Mindhunter",
+    "overview": "An agent in the FBI's Elite Serial Crime Unit develops profiling techniques as he pursues notorious serial killers and rapists.",
+    "posterPath": "/fbKE87mojpIETWepSbD5Qt741d7.jpg",
+    "backdropPath": "/5b8n9m2c5v8n9m4c6b8v5c9.jpg",
+    "releaseDate": "2017-10-13",
+    "voteAverage": 8.1,
+    "voteCount": 2500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 19,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 70523,
+    "mediaType": "tv",
+    "title": "Dark",
+    "originalTitle": "Dark",
+    "overview": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations in the German town of Winden.",
+    "posterPath": "/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "backdropPath": "/2b8X6m9v4c5b7n8m9c6v5b4c9.jpg",
+    "releaseDate": "2017-12-01",
+    "voteAverage": 8.4,
+    "voteCount": 6500,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 3,
+    "numberOfEpisodes": 26,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 60574,
+    "mediaType": "tv",
+    "title": "Peaky Blinders",
+    "originalTitle": "Peaky Blinders",
+    "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+    "posterPath": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+    "backdropPath": "/7x3b7n9m2c5v8n9m4c6b8v5c9.jpg",
+    "releaseDate": "2013-09-12",
+    "voteAverage": 8.5,
+    "voteCount": 9700,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "numberOfSeasons": 6,
+    "numberOfEpisodes": 36,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 139887,
+    "mediaType": "tv",
+    "title": "The Bear",
+    "originalTitle": "The Bear",
+    "overview": "A young fine-dining chef comes home to Chicago to run his family Italian beef sandwich shop after a heartbreaking death in his family.",
+    "posterPath": "/sHFlp80T2p6N9s9k8m4c6b8v5.jpg",
+    "backdropPath": "/4F3e8p4B7k9n2b7v6m3x5k4m8n9.jpg",
+    "releaseDate": "2022-06-23",
+    "voteAverage": 8.3,
+    "voteCount": 1600,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 3,
+    "numberOfEpisodes": 28,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 67070,
+    "mediaType": "tv",
+    "title": "Fleabag",
+    "originalTitle": "Fleabag",
+    "overview": "A dry-witted female navigating through life and love in London while trying to cope with a tragedy.",
+    "posterPath": "/1PkKq7X8t0W4k4p9m2c5b7v6.jpg",
+    "backdropPath": "/a87k9X4b6m7c5X8v9n3b7v6c7.jpg",
+    "releaseDate": "2016-07-21",
+    "voteAverage": 8.3,
+    "voteCount": 1300,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 12,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 97546,
+    "mediaType": "tv",
+    "title": "Ted Lasso",
+    "originalTitle": "Ted Lasso",
+    "overview": "Ted Lasso, an American college football coach, is hired to manage the British soccer team AFC Richmond, despite having no experience coaching soccer.",
+    "posterPath": "/5bFKKyICOPmCM46m4t9c1n5m6.jpg",
+    "backdropPath": "/3b8X7m9v4c6X8n9v2b5m6c7c9.jpg",
+    "releaseDate": "2020-08-14",
+    "voteAverage": 8.5,
+    "voteCount": 1700,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 3,
+    "numberOfEpisodes": 34,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 94605,
+    "mediaType": "tv",
+    "title": "Arcane",
+    "originalTitle": "Arcane",
+    "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and incompatible convictions.",
+    "posterPath": "/fqldf2t8ztc9aiwn39DbGQilBzM.jpg",
+    "backdropPath": "/uDGySpqdaGhBLL2m9v4c6b8v5.jpg",
+    "releaseDate": "2021-11-06",
+    "voteAverage": 8.7,
+    "voteCount": 4200,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 18,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 1429,
+    "mediaType": "tv",
+    "title": "Attack on Titan",
+    "originalTitle": "進撃の巨人",
+    "overview": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+    "posterPath": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+    "backdropPath": "/7x3b7n9m2c5v8n9m4c6b8v5d1.jpg",
+    "releaseDate": "2013-04-07",
+    "voteAverage": 8.7,
+    "voteCount": 6500,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "numberOfSeasons": 4,
+    "numberOfEpisodes": 89,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 46298,
+    "mediaType": "tv",
+    "title": "Death Note",
+    "originalTitle": "DEATH NOTE",
+    "overview": "Light Yagami is an ace student with great prospects—and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god.",
+    "posterPath": "/iigTJJskR1KgGHW3f7n5b8n9m.jpg",
+    "backdropPath": "/2b8X6m9v4c5b7n8m9c6v5b4d1.jpg",
+    "releaseDate": "2006-10-04",
+    "voteAverage": 8.6,
+    "voteCount": 4100,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 37,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 30991,
+    "mediaType": "tv",
+    "title": "Cowboy Bebop",
+    "originalTitle": "カウボーイビバップ",
+    "overview": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System.",
+    "posterPath": "/7t9x6m4v3b2c1n5m6k7h8g9d1.jpg",
+    "backdropPath": "/5b8n9m2c5v8n9m4c6b8v5d1.jpg",
+    "releaseDate": "1998-04-03",
+    "voteAverage": 8.5,
+    "voteCount": 1900,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 26,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 31911,
+    "mediaType": "tv",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "originalTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "overview": "Two brothers lose their mother to an incurable illness. With the power of \"alchemy\", they use taboo knowledge to resurrect her, with tragic consequences.",
+    "posterPath": "/5ZFUEOULaVml7ukDCXOSHg7x5H.jpg",
+    "backdropPath": "/4F3e8p4B7k9n2b7v6m3x5k4m8nd1.jpg",
+    "releaseDate": "2009-04-05",
+    "voteAverage": 8.7,
+    "voteCount": 2200,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 64,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 4613,
+    "mediaType": "tv",
+    "title": "Band of Brothers",
+    "originalTitle": "Band of Brothers",
+    "overview": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the unit's landing in Normandy and their journey across Europe.",
+    "posterPath": "/zmsqYkI49i6v1w8t0W4k4p9m2c5.jpg",
+    "backdropPath": "/a87k9X4b6m7c5X8v9n3b7v6d1.jpg",
+    "releaseDate": "2001-09-09",
+    "voteAverage": 8.5,
+    "voteCount": 3500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "numberOfSeasons": 1,
+    "numberOfEpisodes": 10,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 76479,
+    "mediaType": "tv",
+    "title": "The Boys",
+    "originalTitle": "The Boys",
+    "overview": "A fun and irreverent take on what happens when superheroes—who are as popular as celebrities, as influential as politicians, and as revered as gods—abuse their superpowers.",
+    "posterPath": "/2zm7HAdn9m2c5v8n9m4c6b8v5.jpg",
+    "backdropPath": "/3b8X7m9v4c6X8n9v2b5m6c7d1.jpg",
+    "releaseDate": "2019-07-26",
+    "voteAverage": 8.4,
+    "voteCount": 10200,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "numberOfSeasons": 4,
+    "numberOfEpisodes": 32,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 95557,
+    "mediaType": "tv",
+    "title": "Invincible",
+    "originalTitle": "Invincible",
+    "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own.",
+    "posterPath": "/dMOpdkrDC5avuRo2G1oIZmuVoSl.jpg",
+    "backdropPath": "/7x3b7n9m2c5v8n9m4c6b8v5d2.jpg",
+    "releaseDate": "2021-03-25",
+    "voteAverage": 8.6,
+    "voteCount": 4500,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 16,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 19885,
+    "mediaType": "tv",
+    "title": "Sherlock",
+    "originalTitle": "Sherlock",
+    "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "posterPath": "/7Wr4qS4m4v3b2c1n5m6k7h8g9.jpg",
+    "backdropPath": "/2b8X6m9v4c5b7n8m9c6v5b4d2.jpg",
+    "releaseDate": "2010-07-25",
+    "voteAverage": 8.5,
+    "voteCount": 5200,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "numberOfSeasons": 4,
+    "numberOfEpisodes": 13,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 42009,
+    "mediaType": "tv",
+    "title": "Black Mirror",
+    "originalTitle": "Black Mirror",
+    "overview": "A contemporary British re-working of The Twilight Zone with stories that tap into the collective unease about our modern world.",
+    "posterPath": "/5UaMbN0m2c5v8n9m4c6b8v5d2.jpg",
+    "backdropPath": "/5b8n9m2c5v8n9m4c6b8v5d2.jpg",
+    "releaseDate": "2011-12-04",
+    "voteAverage": 8.3,
+    "voteCount": 4800,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "numberOfSeasons": 6,
+    "numberOfEpisodes": 27,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 65494,
+    "mediaType": "tv",
+    "title": "The Crown",
+    "originalTitle": "The Crown",
+    "overview": "The gripping, inside story of two of the most famous addresses in the world — Buckingham Palace and 10 Downing Street — and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century.",
+    "posterPath": "/1PkKq7X8t0W4k4p9m2c5b7v6d2.jpg",
+    "backdropPath": "/4F3e8p4B7k9n2b7v6m3x5k4m8nd2.jpg",
+    "releaseDate": "2016-11-04",
+    "voteAverage": 8.2,
+    "voteCount": 1900,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "numberOfSeasons": 6,
+    "numberOfEpisodes": 60,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 93405,
+    "mediaType": "tv",
+    "title": "Squid Game",
+    "originalTitle": "오징어 게임",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes.",
+    "posterPath": "/dDlGcuToQx9qG2vGZg6i47fX9.jpg",
+    "backdropPath": "/a87k9X4b6m7c5X8v9n3b7v6d2.jpg",
+    "releaseDate": "2021-09-17",
+    "voteAverage": 7.8,
+    "voteCount": 14000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 15,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 126308,
+    "mediaType": "tv",
+    "title": "Shōgun",
+    "originalTitle": "Shōgun",
+    "overview": "When a mysterious European ship is found marooned in a nearby fishing village, Lord Yoshii Toranaga discovers secrets that could tip the scales of power in feudal Japan.",
+    "posterPath": "/7O4iVfOMQmdCSxhOg1WNzG1AgYT.jpg",
+    "backdropPath": "/3b8X7m9v4c6X8n9v2b5m6c7d2.jpg",
+    "releaseDate": "2024-02-27",
+    "voteAverage": 8.5,
+    "voteCount": 1400,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 10,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 63351,
+    "mediaType": "tv",
+    "title": "Narcos",
+    "originalTitle": "Narcos",
+    "overview": "A gritty chronicle of the criminal exploits of Colombian drug lord Pablo Escobar and the many other drug kingpins who plagued the country through the years.",
+    "posterPath": "/rTmal9m2c5v8n9m4c6b8v5d2.jpg",
+    "backdropPath": "/7x3b7n9m2c5v8n9m4c6b8v5d3.jpg",
+    "releaseDate": "2015-08-28",
+    "voteAverage": 8.2,
+    "voteCount": 3000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 3,
+    "numberOfEpisodes": 30,
+    "status": "Ended"
+  },
+  {
+    "tmdbId": 82856,
+    "mediaType": "tv",
+    "title": "The Mandalorian",
+    "originalTitle": "The Mandalorian",
+    "overview": "After the fall of the Galactic Empire, lawlessness has spread across the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+    "posterPath": "/eU1i6eHXlzMOlEq0ku1R07Y9W.jpg",
+    "backdropPath": "/2b8X6m9v4c5b7n8m9c6v5b4d3.jpg",
+    "releaseDate": "2019-11-12",
+    "voteAverage": 8.4,
+    "voteCount": 9800,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "numberOfSeasons": 3,
+    "numberOfEpisodes": 24,
+    "status": "Returning Series"
+  },
+  {
+    "tmdbId": 83867,
+    "mediaType": "tv",
+    "title": "Andor",
+    "originalTitle": "Andor",
+    "overview": "The story of the burgeoning rebellion against the Empire and how people and planets became involved. In an era filled with danger, deception and intrigue, Cassian will discover the difference he can make.",
+    "posterPath": "/59SVNw1FlNk5uH23lqA9aO09G.jpg",
+    "backdropPath": "/5b8n9m2c5v8n9m4c6b8v5d3.jpg",
+    "releaseDate": "2022-09-21",
+    "voteAverage": 8.2,
+    "voteCount": 1500,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "numberOfSeasons": 2,
+    "numberOfEpisodes": 24,
+    "status": "Returning Series"
+  }
+]

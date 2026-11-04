@@ -6,12 +6,22 @@ exports.getAllMedia = async (req, res) => {
     const queryObj = { ...req.query };
     const excludedFields = ['page', 'limit', 'sort', 'fields'];
     excludedFields.forEach((el) => delete queryObj[el]);
+    //advanced filtering
+    let queryStr = JSON.stringify(queryObj);
+    queryStr = queryStr.replace(/\b(gte|gt|lte|lt)\b/g, (match) => `$${match}`);
 
     //executing query
     //This is done like this so we can chain other querying methods
-    const query = Media.find(queryObj);
-    const media = await query;
+    let query = Media.find(JSON.parse(queryStr));
 
+    //implementing sorting
+    if (req.query.sort) {
+      console.log(req.query.sort);
+      query = query.sort(req.query.sort);
+    }
+
+    const media = await query;
+    console.log(JSON.parse(queryStr));
     res.status(200).json({
       status: 'success',
       results: media.length,

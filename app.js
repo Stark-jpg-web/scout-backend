@@ -5,6 +5,7 @@ const movieRouter = require('./routes/movieRoutes');
 const userRouter = require('./routes/userRoutes');
 
 const app = express();
+app.set('query parser', 'extended');
 app.use(express.json());
 
 if (process.env.NODE_ENV === 'development') {
