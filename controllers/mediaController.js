@@ -19,16 +19,17 @@ exports.getAllMedia = async (req, res) => {
       },
       results: media.length,
       data: {
-        media: media,
+        media,
       },
     });
   } catch (err) {
     res.status(400).json({
-      status: 'Fail',
-      message: `Bad Request : ${err}`,
+      status: 'fail',
+      message: `Bad Request: ${err.message || err}`,
     });
   }
 };
+
 exports.getTopFive = async (req, res) => {
   try {
     const fixedQuery = {
@@ -49,35 +50,42 @@ exports.getTopFive = async (req, res) => {
       status: 'success',
       pagination: {
         page: Number(req.query.page) || 1,
-        limit: Number(req.query.limit) || fixedQuery.limit,
+        limit: Number(req.query.limit) || Number(fixedQuery.limit),
       },
       results: media.length,
       data: {
-        media: media,
+        media,
       },
     });
   } catch (err) {
     res.status(400).json({
-      status: 'Fail',
-      message: `Bad Request : ${err}`,
+      status: 'fail',
+      message: `Bad Request: ${err.message || err}`,
     });
   }
 };
+
 exports.getMedia = async (req, res) => {
   try {
     const media = await Media.findById(req.params.id);
 
+    if (!media) {
+      return res.status(404).json({
+        status: 'fail',
+        message: 'No media found with that ID',
+      });
+    }
+
     res.status(200).json({
       status: 'success',
       data: {
-        media: media,
-        message: 'Movie Found',
+        media,
       },
     });
   } catch (err) {
     res.status(400).json({
-      status: 'Fail',
-      message: `Bad Request : ${err}`,
+      status: 'fail',
+      message: `Bad Request: ${err.message || err}`,
     });
   }
 };
@@ -85,17 +93,17 @@ exports.getMedia = async (req, res) => {
 exports.createMedia = async (req, res) => {
   try {
     const newMedia = await Media.create(req.body);
-    res.status(200).json({
+
+    res.status(201).json({
       status: 'success',
       data: {
         media: newMedia,
-        message: 'media created successfully',
       },
     });
   } catch (err) {
     res.status(400).json({
-      status: 'Fail',
-      message: `Bad Request : ${err}`,
+      status: 'fail',
+      message: `Bad Request: ${err.message || err}`,
     });
   }
 };
@@ -106,28 +114,47 @@ exports.updateMedia = async (req, res) => {
       new: true,
       runValidators: true,
     });
+
+    if (!media) {
+      return res.status(404).json({
+        status: 'fail',
+        message: 'No media found with that ID',
+      });
+    }
+
     res.status(200).json({
       status: 'success',
       data: {
-        media: media,
+        media,
       },
     });
   } catch (err) {
     res.status(400).json({
-      status: 'Fail',
-      message: `Bad Request : ${err}`,
+      status: 'fail',
+      message: `Bad Request: ${err.message || err}`,
     });
   }
 };
 
 exports.deleteMedia = async (req, res) => {
   try {
-    await Media.findByIdAndDelete(req.params.id);
-    res.status(204).json({ status: null });
+    const media = await Media.findByIdAndDelete(req.params.id);
+
+    if (!media) {
+      return res.status(404).json({
+        status: 'fail',
+        message: 'No media found with that ID',
+      });
+    }
+
+    res.status(204).json({
+      status: 'success',
+      data: null,
+    });
   } catch (err) {
     res.status(400).json({
-      status: 'Fail',
-      message: `Bad Request : ${err}`,
+      status: 'fail',
+      message: `Bad Request: ${err.message || err}`,
     });
   }
 };

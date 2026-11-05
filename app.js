@@ -1,7 +1,7 @@
 const express = require('express');
 const morgan = require('morgan');
 
-const movieRouter = require('./routes/movieRoutes');
+const mediaRouter = require('./routes/mediaRoutes');
 const userRouter = require('./routes/userRoutes');
 
 const app = express();
@@ -13,10 +13,11 @@ if (process.env.NODE_ENV === 'development') {
 }
 app.use(express.static(`${__dirname}/public`));
 
-//movie router
-app.use('/api/v1/movies', movieRouter);
+// Media router (with /movies alias for backward compatibility)
+app.use('/api/v1/media', mediaRouter);
+app.use('/api/v1/movies', mediaRouter);
 
-//user router
+// User router
 app.use('/api/v1/users', userRouter);
 
 module.exports = app;
