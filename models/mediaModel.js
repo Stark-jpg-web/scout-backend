@@ -78,6 +78,11 @@ const mediaSchema = new mongoose.Schema(
       default: Date.now,
       index: true,
     },
+    createdAt: {
+      type: Date,
+      default: Date.now,
+      select: false,
+    },
   },
   {
     timestamps: true,

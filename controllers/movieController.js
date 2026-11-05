@@ -1,29 +1,22 @@
 const Media = require('../models/mediaModel');
+const APIFeatures = require('../utils/apiFeatures');
 
 exports.getAllMedia = async (req, res) => {
   try {
-    //building query
-    const queryObj = { ...req.query };
-    const excludedFields = ['page', 'limit', 'sort', 'fields'];
-    excludedFields.forEach((el) => delete queryObj[el]);
-    //advanced filtering
-    let queryStr = JSON.stringify(queryObj);
-    queryStr = queryStr.replace(/\b(gte|gt|lte|lt)\b/g, (match) => `$${match}`);
+    const features = new APIFeatures(Media.find(), req.query)
+      .filter()
+      .limitFields()
+      .sort()
+      .paginate();
 
-    //executing query
-    //This is done like this so we can chain other querying methods
-    let query = Media.find(JSON.parse(queryStr));
+    const media = await features.query;
 
-    //implementing sorting
-    if (req.query.sort) {
-      console.log(req.query.sort);
-      query = query.sort(req.query.sort);
-    }
-
-    const media = await query;
-    console.log(JSON.parse(queryStr));
     res.status(200).json({
       status: 'success',
+      pagination: {
+        page: Number(req.query.page) || 1,
+        limit: Number(req.query.limit) || 10,
+      },
       results: media.length,
       data: {
         media: media,
@@ -36,7 +29,40 @@ exports.getAllMedia = async (req, res) => {
     });
   }
 };
+exports.getTopFive = async (req, res) => {
+  try {
+    const fixedQuery = {
+      ...req.query,
+      limit: '5',
+      sort: '-voteAverage',
+      fields: 'title,voteAverage,releaseDate,overview',
+    };
+    const features = new APIFeatures(Media.find(), fixedQuery)
+      .filter()
+      .limitFields()
+      .sort()
+      .paginate();
 
+    const media = await features.query;
+
+    res.status(200).json({
+      status: 'success',
+      pagination: {
+        page: Number(req.query.page) || 1,
+        limit: Number(req.query.limit) || fixedQuery.limit,
+      },
+      results: media.length,
+      data: {
+        media: media,
+      },
+    });
+  } catch (err) {
+    res.status(400).json({
+      status: 'Fail',
+      message: `Bad Request : ${err}`,
+    });
+  }
+};
 exports.getMedia = async (req, res) => {
   try {
     const media = await Media.findById(req.params.id);

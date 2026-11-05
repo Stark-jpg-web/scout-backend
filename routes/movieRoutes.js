@@ -4,7 +4,9 @@ const movieController = require('../controllers/movieController');
 const router = express.Router();
 
 /* router.param('id', movieController.checkId); */
-
+router
+  .route('/top-5-media')
+  .get(movieController.getTopFive);
 router
   .route('/')
   .get(movieController.getAllMedia)
