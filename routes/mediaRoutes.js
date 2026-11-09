@@ -6,6 +6,8 @@ const router = express.Router();
 /* router.param('id', mediaController.checkId); */
 router.route('/top-5-media').get(mediaController.getTopFive);
 
+router.route('/media-stats').get(mediaController.getMediaStats);
+router.route('/media-by/:year').get(mediaController.getMediaCountByReleaseDate);
 router
   .route('/')
   .get(mediaController.getAllMedia)
