@@ -1,0 +1,3731 @@
+[
+  {
+    "_id": "6af334fba1f1493414cfd9f0",
+    "mediaId": 603,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 10,
+    "content": "The Matrix redefined sci-fi cinema at the turn of the millennium. The bullet-time visual effects, cyberpunk philosophy, and martial arts choreography created an aesthetic that countless films tried to copy.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f1",
+    "mediaId": 603,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "content": "The lobby shootout scene alone influenced action filmmaking for the entire next decade. Absolute timeless classic.",
+    "containsSpoilers": false,
+    "parentCommentId": "6af334fba1f1493414cfd9f0",
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f2",
+    "mediaId": 603,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "Neo choosing between the red pill and blue pill is one of the most iconic philosophical dilemmas in modern pop culture. Keanu Reeves and Laurence Fishburne have unbeatable screen presence.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f3",
+    "mediaId": 155,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "Heath Ledger's Joker is quite simply the pinnacle of cinematic villainy. Nolan turned a superhero movie into a gritty, neo-noir crime thriller echoing Michael Mann's Heat.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f4",
+    "mediaId": 155,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "content": "The hospital explosion and interrogation scenes are legendary. Nothing has touched this standard in the genre since.",
+    "containsSpoilers": false,
+    "parentCommentId": "6af334fba1f1493414cfd9f3",
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f5",
+    "mediaId": 155,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 9,
+    "content": "Christian Bale's internal conflict and Gary Oldman's Jim Gordon hold the moral weight of Gotham together. A breathless, tragic, and utterly captivating movie.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f6",
+    "mediaId": 680,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 10,
+    "content": "Tarantino's nonlinear narrative, razor-sharp dialogue, and iconic needle-drops transformed American independent film forever. Samuel L. Jackson and John Travolta have legendary chemistry.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d7",
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f7",
+    "mediaId": 680,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 9,
+    "content": "From the diner stick-up to the diner standoff at the end, every single vignette crackles with tension and dark wit. A cinematic landmark.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d4"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f8",
+    "mediaId": 550,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "David Fincher's cynical exploration of consumerist emptiness and toxic masculinity. The revelation that Tyler Durden and the Narrator are the same psyche is one of the greatest plot twists of all time.",
+    "containsSpoilers": true,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9f9",
+    "mediaId": 550,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "content": "The Dust Brothers soundtrack combined with the tactile editing makes this film feel as electric and punchy as its subject matter.",
+    "containsSpoilers": false,
+    "parentCommentId": "6af334fba1f1493414cfd9f8",
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9fa",
+    "mediaId": 13,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Forrest Gump delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9fb",
+    "mediaId": 13,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Forrest Gump is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d5"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9fc",
+    "mediaId": 278,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in The Shawshank Redemption is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d5"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9fd",
+    "mediaId": 278,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "What stands out most in The Shawshank Redemption is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9fe",
+    "mediaId": 157336,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 10,
+    "content": "An overwhelming emotional journey anchored by Kip Thorne's theoretical physics and Hoyte van Hoytema's IMAX cinematography. The docking scene with Hans Zimmer's \"No Time for Caution\" gives me chills every time.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfd9ff",
+    "mediaId": 157336,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "content": "The video messages scene when Cooper realizes he missed decades of his children's lives is pure cinematic heartbreak. McConaughey's finest performance.",
+    "containsSpoilers": false,
+    "parentCommentId": "6af334fba1f1493414cfd9fe",
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda00",
+    "mediaId": 157336,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "A sci-fi spectacle that dares to put unconditional human connection and paternal love at the center of astrophysics. Visually staggering from start to finish.",
+    "containsSpoilers": true,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda01",
+    "mediaId": 27205,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 10,
+    "content": "A masterclass in original conceptual filmmaking. Christopher Nolan balances intricate exposition with relentless emotional momentum. The rotating hallway fight scene and Hans Zimmer's \"Time\" remain unmatched in modern cinema.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda02",
+    "mediaId": 27205,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "content": "Completely agree, Adel! Even on the fifth rewatch you notice new visual details and rhythmic edits that tie the dreams together.",
+    "containsSpoilers": false,
+    "parentCommentId": "6af334fba1f1493414cfda01",
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda03",
+    "mediaId": 27205,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 9,
+    "content": "Brilliant pacing and concept. The ambiguous spinning totem ending still sparks lively debate among cinephiles. Leonardo DiCaprio delivers a grounded, desperate emotional anchor that keeps the high-concept premise human.",
+    "containsSpoilers": true,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda04",
+    "mediaId": 769,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. GoodFellas delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda05",
+    "mediaId": 129,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 10,
+    "content": "Hayao Miyazaki's crown jewel. Joe Hisaishi's piano score, the lush hand-drawn bathhouse spirits, and Chihiro's coming-of-age journey make this an unforgettable masterpiece of animation.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda06",
+    "mediaId": 496243,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 10,
+    "content": "Bong Joon-ho created an impeccable, darkly comedic architectural thriller about class disparity. The shift in tone during the rainy night sequence is pure directorial wizardry.",
+    "containsSpoilers": true,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d4"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda07",
+    "mediaId": 496243,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 10,
+    "content": "Deserved every single Oscar it won. Every frame, staircase, and dialogue line is meticulously arranged to mirror societal stratification.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda08",
+    "mediaId": 244786,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 10,
+    "content": "Damien Chazelle turns jazz drumming into a high-octane psychological thriller. J.K. Simmons is terrifyingly brilliant as Fletcher, and Miles Teller pours every ounce of sweat onto the kit.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda09",
+    "mediaId": 98,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Gladiator is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d6",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda0a",
+    "mediaId": 1422,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, The Departed commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda0b",
+    "mediaId": 1422,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. The Departed delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda0c",
+    "mediaId": 1124,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in The Prestige is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda0d",
+    "mediaId": 1124,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 8,
+    "content": "What stands out most in The Prestige is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d9"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda0e",
+    "mediaId": 77,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Memento balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda0f",
+    "mediaId": 348,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, Alien commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda10",
+    "mediaId": 679,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Aliens delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda11",
+    "mediaId": 335984,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Blade Runner 2049 is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d4"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda12",
+    "mediaId": 438631,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Dune delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda13",
+    "mediaId": 693134,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Dune: Part Two is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda14",
+    "mediaId": 693134,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "What stands out most in Dune: Part Two is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda15",
+    "mediaId": 872585,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Oppenheimer balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda16",
+    "mediaId": 240,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, The Godfather Part II commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda17",
+    "mediaId": 240,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. The Godfather Part II delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda18",
+    "mediaId": 238,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep The Godfather consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda19",
+    "mediaId": 238,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. The Godfather balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda1a",
+    "mediaId": 299536,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Avengers: Infinity War consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda1b",
+    "mediaId": 299536,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Avengers: Infinity War balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda1c",
+    "mediaId": 299534,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Avengers: Endgame is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda1d",
+    "mediaId": 120,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, The Lord of the Rings: The Fellowship of the Ring commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda1e",
+    "mediaId": 122,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in The Lord of the Rings: The Return of the King is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda1f",
+    "mediaId": 121,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. The Lord of the Rings: The Two Towers delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda20",
+    "mediaId": 121,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in The Lord of the Rings: The Two Towers is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda21",
+    "mediaId": 1891,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. The Empire Strikes Back delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda22",
+    "mediaId": 1891,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in The Empire Strikes Back is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6",
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d5"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda23",
+    "mediaId": 329,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Jurassic Park balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda24",
+    "mediaId": 329,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, Jurassic Park commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d8"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda25",
+    "mediaId": 280,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Terminator 2: Judgment Day consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda26",
+    "mediaId": 280,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Terminator 2: Judgment Day balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda27",
+    "mediaId": 105,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "What stands out most in Back to the Future is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda28",
+    "mediaId": 105,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Back to the Future consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda29",
+    "mediaId": 274,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep The Silence of the Lambs consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda2a",
+    "mediaId": 274,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. The Silence of the Lambs balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda2b",
+    "mediaId": 807,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 8,
+    "content": "What stands out most in Se7en is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d4"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda2c",
+    "mediaId": 37165,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. The Truman Show delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda2d",
+    "mediaId": 38,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Eternal Sunshine of the Spotless Mind is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda2e",
+    "mediaId": 6977,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. No Country for Old Men balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda2f",
+    "mediaId": 7345,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. There Will Be Blood delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda30",
+    "mediaId": 68718,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, Django Unchained commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda31",
+    "mediaId": 68718,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Django Unchained delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d5"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda32",
+    "mediaId": 16869,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 8,
+    "content": "What stands out most in Inglourious Basterds is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6",
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda33",
+    "mediaId": 16869,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Inglourious Basterds consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d8"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda34",
+    "mediaId": 120467,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. The Grand Budapest Hotel balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d8",
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda35",
+    "mediaId": 120467,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, The Grand Budapest Hotel commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d4"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda36",
+    "mediaId": 313369,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. La La Land delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda37",
+    "mediaId": 313369,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in La La Land is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d5"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda38",
+    "mediaId": 76341,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 8,
+    "content": "What stands out most in Mad Max: Fury Road is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda39",
+    "mediaId": 76341,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Mad Max: Fury Road consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda3a",
+    "mediaId": 545611,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Everything Everywhere All at Once delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d8"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda3b",
+    "mediaId": 545611,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Everything Everywhere All at Once is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda3c",
+    "mediaId": 361743,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 8,
+    "content": "What stands out most in Top Gun: Maverick is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda3d",
+    "mediaId": 361743,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Top Gun: Maverick consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda3e",
+    "mediaId": 106646,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in The Wolf of Wall Street is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda3f",
+    "mediaId": 11324,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Shutter Island is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d7"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda40",
+    "mediaId": 11324,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 8,
+    "content": "What stands out most in Shutter Island is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d7",
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda41",
+    "mediaId": 103,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Taxi Driver delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda42",
+    "mediaId": 103,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Taxi Driver is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda43",
+    "mediaId": 324857,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Spider-Man: Into the Spider-Verse balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda44",
+    "mediaId": 324857,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, Spider-Man: Into the Spider-Verse commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d8"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda45",
+    "mediaId": 62,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in 2001: A Space Odyssey is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda46",
+    "mediaId": 62,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 8,
+    "content": "What stands out most in 2001: A Space Odyssey is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d6",
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda47",
+    "mediaId": 289,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Casablanca delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda48",
+    "mediaId": 569094,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, Spider-Man: Across the Spider-Verse commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda49",
+    "mediaId": 567,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 8,
+    "content": "What stands out most in Rear Window is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d4"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda4a",
+    "mediaId": 567,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Rear Window consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda4b",
+    "mediaId": 354912,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, Coco commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d6",
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda4c",
+    "mediaId": 354912,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Coco delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda4d",
+    "mediaId": 14160,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, Up commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda4e",
+    "mediaId": 14160,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Up delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda4f",
+    "mediaId": 10681,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. WALL·E delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d9"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda50",
+    "mediaId": 10681,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in WALL·E is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6",
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda51",
+    "mediaId": 8587,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. The Lion King delivers a deeply satisfying viewing experience that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda52",
+    "mediaId": 862,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Toy Story consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda53",
+    "mediaId": 2062,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Ratatouille consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d6",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda54",
+    "mediaId": 128,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Princess Mononoke is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda55",
+    "mediaId": 372058,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Your Name. consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda56",
+    "mediaId": 372058,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Your Name. balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda57",
+    "mediaId": 670,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Oldboy consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda58",
+    "mediaId": 670,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Oldboy balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda59",
+    "mediaId": 598,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep City of God consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda5a",
+    "mediaId": 1396,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 10,
+    "content": "The greatest television drama ever produced. Walter White's transformation from mild-mannered chemistry teacher into ruthless kingpin Heisenberg is executed with peerless narrative discipline. \"Ozymandias\" is perfection.",
+    "containsSpoilers": true,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda5b",
+    "mediaId": 1396,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "content": "Vince Gilligan didn't waste a single scene across five seasons. Aaron Paul as Jesse Pinkman is the emotional soul of the entire saga.",
+    "containsSpoilers": false,
+    "parentCommentId": "6af334fba1f1493414cfda5a",
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d4"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda5c",
+    "mediaId": 1396,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "From the desert cook in the pilot to the tragic resolution in Felina, this show set a bar for character evolution and tension that television will chase forever.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda5d",
+    "mediaId": 1399,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 8,
+    "content": "Seasons 1 through 4 represent the absolute pinnacle of fantasy storytelling, complex political maneuvering, and ensemble acting. Despite a rushed final season, the Red Wedding and Battle of the Bastards remain landmark TV moments.",
+    "containsSpoilers": true,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda5e",
+    "mediaId": 60059,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 9,
+    "content": "One of the most impressive productions in recent memory. Better Call Saul balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda5f",
+    "mediaId": 60059,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "A truly phenomenal series. From the impeccable art direction to the rich thematic undertones, Better Call Saul commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda60",
+    "mediaId": 94997,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 9,
+    "content": "One of the most impressive productions in recent memory. House of the Dragon balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda61",
+    "mediaId": 76331,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 10,
+    "content": "Shakespearean drama wrapped in sleek Manhattan penthouses and corporate boardrooms. Nicholas Britell's piano score, the razor-sharp satirical writing, and Jeremy Strong's heartbreaking Kendall Roy make this essential viewing.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d8"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda62",
+    "mediaId": 76331,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "content": "The dialogue delivery and mockumentary camera zooms give every argument excruciating intimacy. A flawless series.",
+    "containsSpoilers": false,
+    "parentCommentId": "6af334fba1f1493414cfda61",
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda63",
+    "mediaId": 1398,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "A truly phenomenal series. From the impeccable art direction to the rich thematic undertones, The Sopranos commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda64",
+    "mediaId": 1398,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. The Sopranos delivers a deeply satisfying arc that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda65",
+    "mediaId": 1438,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep The Wire consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda66",
+    "mediaId": 66732,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 9,
+    "content": "A nostalgic 80s love letter loaded with synthwave atmosphere, Spielbergian wonder, and Stephen King horror. The Hawkins kids have irresistible chemistry.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda67",
+    "mediaId": 95396,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 10,
+    "content": "One of the freshest, most suspenseful sci-fi mysteries in decades. The finale is one of the most nail-biting hours of television ever broadcast. Adam Scott and Patricia Arquette are phenomenal.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d6",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda68",
+    "mediaId": 95396,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "content": "The waffle party and the OTC activation had my heart pounding through my chest! Cannot wait for season two.",
+    "containsSpoilers": false,
+    "parentCommentId": "6af334fba1f1493414cfda67",
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda69",
+    "mediaId": 100088,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 9,
+    "content": "Proof that video game adaptations can be elevated art. Pedro Pascal and Bella Ramsey embody Joel and Ellie with profound warmth and grief. Episode 3 with Nick Offerman and Murray Bartlett is unforgettable.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda6a",
+    "mediaId": 87108,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "A truly phenomenal series. From the impeccable art direction to the rich thematic undertones, Chernobyl commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda6b",
+    "mediaId": 87108,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Chernobyl delivers a deeply satisfying arc that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda6c",
+    "mediaId": 46648,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep True Detective consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d6",
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda6d",
+    "mediaId": 46648,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 9,
+    "content": "One of the most impressive productions in recent memory. True Detective balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda6e",
+    "mediaId": 57243,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d5",
+    "rating": 8,
+    "content": "What stands out most in Fargo is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda6f",
+    "mediaId": 57243,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep Fargo consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d6"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda70",
+    "mediaId": 67744,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep Mindhunter consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d7"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda71",
+    "mediaId": 70523,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "One of the most impressive productions in recent memory. Dark balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda72",
+    "mediaId": 60574,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep Peaky Blinders consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda73",
+    "mediaId": 139887,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 8,
+    "content": "What stands out most in The Bear is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda74",
+    "mediaId": 67070,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Fleabag is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda75",
+    "mediaId": 97546,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep Ted Lasso consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d8"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda76",
+    "mediaId": 94605,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 8,
+    "content": "What stands out most in Arcane is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda77",
+    "mediaId": 1429,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Attack on Titan delivers a deeply satisfying arc that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d9"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda78",
+    "mediaId": 1429,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Attack on Titan is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda79",
+    "mediaId": 28,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 7,
+    "content": "A very solid and entertaining watch. Strong ensemble performances and great score keep Apocalypse Now consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "funny": [],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d4"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda7a",
+    "mediaId": 28,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Apocalypse Now balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda7b",
+    "mediaId": 30991,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Cowboy Bebop delivers a deeply satisfying arc that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda7c",
+    "mediaId": 30991,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Cowboy Bebop is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda7d",
+    "mediaId": 31911,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "What stands out most in Fullmetal Alchemist: Brotherhood is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda7e",
+    "mediaId": 31911,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep Fullmetal Alchemist: Brotherhood consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda7f",
+    "mediaId": 4613,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "One of the most impressive productions in recent memory. Band of Brothers balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda80",
+    "mediaId": 539,
+    "mediaType": "movie",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 9,
+    "content": "One of the most impressive screenplays in recent memory. Psycho balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda81",
+    "mediaId": 539,
+    "mediaType": "movie",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 9,
+    "content": "A truly phenomenal film. From the impeccable art direction to the rich thematic undertones, Psycho commands your attention from the opening frame.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda82",
+    "mediaId": 95557,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Invincible delivers a deeply satisfying arc that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda83",
+    "mediaId": 19885,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d4",
+    "rating": 8,
+    "content": "Captivating storytelling and top-tier acting throughout. Sherlock delivers a deeply satisfying arc that rewards thoughtful viewers. Highly recommended.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d5",
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda84",
+    "mediaId": 42009,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "What stands out most in Black Mirror is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda85",
+    "mediaId": 42009,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep Black Mirror consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4",
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda86",
+    "mediaId": 65494,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep The Crown consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda87",
+    "mediaId": 82856,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in The Mandalorian is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda88",
+    "mediaId": 126308,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Shōgun is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda89",
+    "mediaId": 126308,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d8",
+    "rating": 8,
+    "content": "What stands out most in Shōgun is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d9",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda8a",
+    "mediaId": 93405,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "What stands out most in Squid Game is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d9"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda8b",
+    "mediaId": 93405,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 7,
+    "content": "A very solid and entertaining show. Strong ensemble performances and great score keep Squid Game consistently engaging despite a slightly uneven second act.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda8c",
+    "mediaId": 63351,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 8,
+    "content": "What stands out most in Narcos is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda8d",
+    "mediaId": 83867,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d6",
+    "rating": 9,
+    "content": "One of the most impressive productions in recent memory. Andor balances ambitious visual craft with deep character humanity.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ade7f11ffce96cc1d3cc14e",
+        "6ae73bccd6c6032fd5d842d4",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda8e",
+    "mediaId": 46298,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d7",
+    "rating": 10,
+    "content": "An absolute masterpiece in its genre. The pacing in Death Note is razor-sharp, the cinematography is breathtaking, and the emotional payoff lingers long after the credits roll.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda8f",
+    "mediaId": 46298,
+    "mediaType": "tv",
+    "user": "6ae73bccd6c6032fd5d842d9",
+    "rating": 8,
+    "content": "What stands out most in Death Note is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d4"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [
+        "6ae73bccd6c6032fd5d842d7"
+      ],
+      "surprised": [
+        "6ae73bccd6c6032fd5d842d8"
+      ]
+    },
+    "isReported": false,
+    "reportCount": 0
+  },
+  {
+    "_id": "6af334fba1f1493414cfda90",
+    "mediaId": 76479,
+    "mediaType": "tv",
+    "user": "6ade7f11ffce96cc1d3cc14e",
+    "rating": 8,
+    "content": "What stands out most in The Boys is the authenticity of the characters. Even during quiet moments, the dramatic tension never falters. Essential viewing for film enthusiasts.",
+    "containsSpoilers": false,
+    "parentCommentId": null,
+    "reactions": {
+      "like": [
+        "6ae73bccd6c6032fd5d842d8",
+        "6ae73bccd6c6032fd5d842d6"
+      ],
+      "dislike": [],
+      "love": [
+        "6ae73bccd6c6032fd5d842d7",
+        "6ae73bccd6c6032fd5d842d5"
+      ],
+      "funny": [],
+      "surprised": []
+    },
+    "isReported": false,
+    "reportCount": 0
+  }
+]

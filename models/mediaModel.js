@@ -1,4 +1,6 @@
 const mongoose = require('mongoose');
+require('./reviewModel');
+const slugify = require('slugify');
 
 const mediaSchema = new mongoose.Schema(
   {
@@ -21,6 +23,7 @@ const mediaSchema = new mongoose.Schema(
       required: [true, 'A media item must have a title'],
       trim: true,
     },
+    slug: String,
     originalTitle: {
       type: String,
       trim: true,
@@ -96,6 +99,10 @@ mediaSchema.virtual('reviews', {
   ref: 'Review',
   foreignField: 'mediaId',
   localField: 'tmdbId',
+});
+//document middleware to extract the slug(url)from the name;
+mediaSchema.pre('save', function () {
+  this.slug = slugify(this.title, { lower: true });
 });
 
 const Media = mongoose.model('Media', mediaSchema);

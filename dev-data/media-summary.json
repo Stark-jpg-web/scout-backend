@@ -1,0 +1,2163 @@
+[
+  {
+    "_id": "6ae74083efb0a6d627657cf7",
+    "tmdbId": 603,
+    "mediaType": "movie",
+    "title": "The Matrix",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb6d",
+    "tmdbId": 155,
+    "mediaType": "movie",
+    "title": "The Dark Knight",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb6e"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cb6f"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cb70"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cb71"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb72",
+    "tmdbId": 680,
+    "mediaType": "movie",
+    "title": "Pulp Fiction",
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cb73"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cb74"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb75",
+    "tmdbId": 550,
+    "mediaType": "movie",
+    "title": "Fight Club",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb76"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb77",
+    "tmdbId": 13,
+    "mediaType": "movie",
+    "title": "Forrest Gump",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cb78"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb79"
+      },
+      {
+        "id": 10749,
+        "name": "Romance",
+        "_id": "6aeb6a0a3e6b08e695f8cb7a"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb7b",
+    "tmdbId": 278,
+    "mediaType": "movie",
+    "title": "The Shawshank Redemption",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb7c"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cb7d"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb69",
+    "tmdbId": 157336,
+    "mediaType": "movie",
+    "title": "Interstellar",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cb6a"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb6b"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cb6c"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb65",
+    "tmdbId": 27205,
+    "mediaType": "movie",
+    "title": "Inception",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cb66"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cb67"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cb68"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb84",
+    "tmdbId": 769,
+    "mediaType": "movie",
+    "title": "GoodFellas",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb85"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cb86"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb87",
+    "tmdbId": 129,
+    "mediaType": "movie",
+    "title": "Spirited Away",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cb88"
+      },
+      {
+        "id": 10751,
+        "name": "Family",
+        "_id": "6aeb6a0a3e6b08e695f8cb89"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8cb8a"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb8b",
+    "tmdbId": 496243,
+    "mediaType": "movie",
+    "title": "Parasite",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cb8c"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cb8d"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb8e"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb8f",
+    "tmdbId": 244786,
+    "mediaType": "movie",
+    "title": "Whiplash",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb90"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb91",
+    "tmdbId": 98,
+    "mediaType": "movie",
+    "title": "Gladiator",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cb92"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb93"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cb94"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb95",
+    "tmdbId": 1422,
+    "mediaType": "movie",
+    "title": "The Departed",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb96"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cb97"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cb98"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb99",
+    "tmdbId": 1124,
+    "mediaType": "movie",
+    "title": "The Prestige",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb9a"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cb9b"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cb9c"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb9d",
+    "tmdbId": 77,
+    "mediaType": "movie",
+    "title": "Memento",
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cb9e"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cb9f"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cba0",
+    "tmdbId": 348,
+    "mediaType": "movie",
+    "title": "Alien",
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror",
+        "_id": "6aeb6a0a3e6b08e695f8cba1"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cba2"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cba3",
+    "tmdbId": 679,
+    "mediaType": "movie",
+    "title": "Aliens",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cba4"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cba5"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cba6"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cba7",
+    "tmdbId": 335984,
+    "mediaType": "movie",
+    "title": "Blade Runner 2049",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cba8"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cba9"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbaa",
+    "tmdbId": 438631,
+    "mediaType": "movie",
+    "title": "Dune",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbab"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbac"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbad",
+    "tmdbId": 693134,
+    "mediaType": "movie",
+    "title": "Dune: Part Two",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbae"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbaf"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbb0",
+    "tmdbId": 872585,
+    "mediaType": "movie",
+    "title": "Oppenheimer",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbb1"
+      },
+      {
+        "id": 36,
+        "name": "History",
+        "_id": "6aeb6a0a3e6b08e695f8cbb2"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb81",
+    "tmdbId": 240,
+    "mediaType": "movie",
+    "title": "The Godfather Part II",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb82"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cb83"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cb7e",
+    "tmdbId": 238,
+    "mediaType": "movie",
+    "title": "The Godfather",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cb7f"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cb80"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbbd",
+    "tmdbId": 299536,
+    "mediaType": "movie",
+    "title": "Avengers: Infinity War",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbbe"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbbf"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbc0"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbc1",
+    "tmdbId": 299534,
+    "mediaType": "movie",
+    "title": "Avengers: Endgame",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbc2"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbc3"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbc4"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbc5",
+    "tmdbId": 120,
+    "mediaType": "movie",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbc6"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8cbc7"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbc8"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbcd",
+    "tmdbId": 122,
+    "mediaType": "movie",
+    "title": "The Lord of the Rings: The Return of the King",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbce"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8cbcf"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbd0"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbc9",
+    "tmdbId": 121,
+    "mediaType": "movie",
+    "title": "The Lord of the Rings: The Two Towers",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbca"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8cbcb"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbcc"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbd1",
+    "tmdbId": 1891,
+    "mediaType": "movie",
+    "title": "The Empire Strikes Back",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbd2"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbd3"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbd4"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbd5",
+    "tmdbId": 329,
+    "mediaType": "movie",
+    "title": "Jurassic Park",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbd6"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbd7"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbd8",
+    "tmdbId": 280,
+    "mediaType": "movie",
+    "title": "Terminator 2: Judgment Day",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbd9"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbda"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cbdb"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbdc",
+    "tmdbId": 105,
+    "mediaType": "movie",
+    "title": "Back to the Future",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbdd"
+      },
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cbde"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbdf"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbe0",
+    "tmdbId": 274,
+    "mediaType": "movie",
+    "title": "The Silence of the Lambs",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cbe1"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbe2"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cbe3"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbe4",
+    "tmdbId": 807,
+    "mediaType": "movie",
+    "title": "Se7en",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cbe5"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cbe6"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cbe7"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbe8",
+    "tmdbId": 37165,
+    "mediaType": "movie",
+    "title": "The Truman Show",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cbe9"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbea"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbeb",
+    "tmdbId": 38,
+    "mediaType": "movie",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbec"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbed"
+      },
+      {
+        "id": 10749,
+        "name": "Romance",
+        "_id": "6aeb6a0a3e6b08e695f8cbee"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbef",
+    "tmdbId": 6977,
+    "mediaType": "movie",
+    "title": "No Country for Old Men",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cbf0"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbf1"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cbf2"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbf3",
+    "tmdbId": 7345,
+    "mediaType": "movie",
+    "title": "There Will Be Blood",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbf4"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbf5",
+    "tmdbId": 68718,
+    "mediaType": "movie",
+    "title": "Django Unchained",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbf6"
+      },
+      {
+        "id": 37,
+        "name": "Western",
+        "_id": "6aeb6a0a3e6b08e695f8cbf7"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbf8",
+    "tmdbId": 16869,
+    "mediaType": "movie",
+    "title": "Inglourious Basterds",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbf9"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cbfa"
+      },
+      {
+        "id": 10752,
+        "name": "War",
+        "_id": "6aeb6a0a3e6b08e695f8cbfb"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbfc",
+    "tmdbId": 120467,
+    "mediaType": "movie",
+    "title": "The Grand Budapest Hotel",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cbfd"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cbfe"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbff",
+    "tmdbId": 313369,
+    "mediaType": "movie",
+    "title": "La La Land",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cc00"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc01"
+      },
+      {
+        "id": 10749,
+        "name": "Romance",
+        "_id": "6aeb6a0a3e6b08e695f8cc02"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc03",
+    "tmdbId": 76341,
+    "mediaType": "movie",
+    "title": "Mad Max: Fury Road",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc04"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc05"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc06"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc07",
+    "tmdbId": 545611,
+    "mediaType": "movie",
+    "title": "Everything Everywhere All at Once",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc08"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc09"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc0a"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc0b",
+    "tmdbId": 361743,
+    "mediaType": "movie",
+    "title": "Top Gun: Maverick",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc0c"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc0d"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc0e",
+    "tmdbId": 106646,
+    "mediaType": "movie",
+    "title": "The Wolf of Wall Street",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc0f"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc10"
+      },
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cc11"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc12",
+    "tmdbId": 11324,
+    "mediaType": "movie",
+    "title": "Shutter Island",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc13"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc14"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cc15"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc16",
+    "tmdbId": 103,
+    "mediaType": "movie",
+    "title": "Taxi Driver",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc17"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc18"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbb3",
+    "tmdbId": 324857,
+    "mediaType": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cbb4"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbb5"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbb6"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbb7"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc1c",
+    "tmdbId": 62,
+    "mediaType": "movie",
+    "title": "2001: A Space Odyssey",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc1d"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc1e"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc1f"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc20",
+    "tmdbId": 289,
+    "mediaType": "movie",
+    "title": "Casablanca",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc21"
+      },
+      {
+        "id": 10749,
+        "name": "Romance",
+        "_id": "6aeb6a0a3e6b08e695f8cc22"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cbb8",
+    "tmdbId": 569094,
+    "mediaType": "movie",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cbb9"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cbba"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cbbb"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cbbc"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc27",
+    "tmdbId": 567,
+    "mediaType": "movie",
+    "title": "Rear Window",
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc28"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cc29"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc2a",
+    "tmdbId": 354912,
+    "mediaType": "movie",
+    "title": "Coco",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc2b"
+      },
+      {
+        "id": 10751,
+        "name": "Family",
+        "_id": "6aeb6a0a3e6b08e695f8cc2c"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8cc2d"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc32",
+    "tmdbId": 14160,
+    "mediaType": "movie",
+    "title": "Up",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc33"
+      },
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cc34"
+      },
+      {
+        "id": 10751,
+        "name": "Family",
+        "_id": "6aeb6a0a3e6b08e695f8cc35"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc36"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc2e",
+    "tmdbId": 10681,
+    "mediaType": "movie",
+    "title": "WALL·E",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc2f"
+      },
+      {
+        "id": 10751,
+        "name": "Family",
+        "_id": "6aeb6a0a3e6b08e695f8cc30"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc31"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc41",
+    "tmdbId": 8587,
+    "mediaType": "movie",
+    "title": "The Lion King",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc42"
+      },
+      {
+        "id": 10751,
+        "name": "Family",
+        "_id": "6aeb6a0a3e6b08e695f8cc43"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc44"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc37",
+    "tmdbId": 862,
+    "mediaType": "movie",
+    "title": "Toy Story",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc38"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc39"
+      },
+      {
+        "id": 10751,
+        "name": "Family",
+        "_id": "6aeb6a0a3e6b08e695f8cc3a"
+      },
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cc3b"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc3c",
+    "tmdbId": 2062,
+    "mediaType": "movie",
+    "title": "Ratatouille",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc3d"
+      },
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cc3e"
+      },
+      {
+        "id": 10751,
+        "name": "Family",
+        "_id": "6aeb6a0a3e6b08e695f8cc3f"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8cc40"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc45",
+    "tmdbId": 128,
+    "mediaType": "movie",
+    "title": "Princess Mononoke",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc46"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8cc47"
+      },
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc48"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc49",
+    "tmdbId": 372058,
+    "mediaType": "movie",
+    "title": "Your Name.",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc4a"
+      },
+      {
+        "id": 10749,
+        "name": "Romance",
+        "_id": "6aeb6a0a3e6b08e695f8cc4b"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc4c"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc4d",
+    "tmdbId": 670,
+    "mediaType": "movie",
+    "title": "Oldboy",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc4e"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc4f"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc50"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cc51"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc52",
+    "tmdbId": 598,
+    "mediaType": "movie",
+    "title": "City of God",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc53"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc54"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc55",
+    "tmdbId": 1396,
+    "mediaType": "tv",
+    "title": "Breaking Bad",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc56"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc57"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc5b",
+    "tmdbId": 1399,
+    "mediaType": "tv",
+    "title": "Game of Thrones",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc5c"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc5d"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc5e"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc5f"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc58",
+    "tmdbId": 60059,
+    "mediaType": "tv",
+    "title": "Better Call Saul",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc59"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc5a"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc60",
+    "tmdbId": 94997,
+    "mediaType": "tv",
+    "title": "House of the Dragon",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc61"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc62"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc63"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8cc64"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc65",
+    "tmdbId": 76331,
+    "mediaType": "tv",
+    "title": "Succession",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc66"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc67",
+    "tmdbId": 1398,
+    "mediaType": "tv",
+    "title": "The Sopranos",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc68"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc69"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc6a",
+    "tmdbId": 1438,
+    "mediaType": "tv",
+    "title": "The Wire",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc6b"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc6c"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc6d",
+    "tmdbId": 66732,
+    "mediaType": "tv",
+    "title": "Stranger Things",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc6e"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc6f"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc70"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc71",
+    "tmdbId": 95396,
+    "mediaType": "tv",
+    "title": "Severance",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc72"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc73"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc74"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc75",
+    "tmdbId": 100088,
+    "mediaType": "tv",
+    "title": "The Last of Us",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc76"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc77"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc78"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc79"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc7a",
+    "tmdbId": 87108,
+    "mediaType": "tv",
+    "title": "Chernobyl",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc7b"
+      },
+      {
+        "id": 36,
+        "name": "History",
+        "_id": "6aeb6a0a3e6b08e695f8cc7c"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc7d",
+    "tmdbId": 46648,
+    "mediaType": "tv",
+    "title": "True Detective",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc7e"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc7f"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc80"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc81",
+    "tmdbId": 57243,
+    "mediaType": "tv",
+    "title": "Fargo",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc82"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc83"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc84",
+    "tmdbId": 67744,
+    "mediaType": "tv",
+    "title": "Mindhunter",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc85"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc86"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc87",
+    "tmdbId": 70523,
+    "mediaType": "tv",
+    "title": "Dark",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc88"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc89"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc8a"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc8b",
+    "tmdbId": 60574,
+    "mediaType": "tv",
+    "title": "Peaky Blinders",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc8c"
+      },
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cc8d"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc8e",
+    "tmdbId": 139887,
+    "mediaType": "tv",
+    "title": "The Bear",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cc8f"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc90"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc91",
+    "tmdbId": 67070,
+    "mediaType": "tv",
+    "title": "Fleabag",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cc92"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc93"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc94",
+    "tmdbId": 97546,
+    "mediaType": "tv",
+    "title": "Ted Lasso",
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy",
+        "_id": "6aeb6a0a3e6b08e695f8cc95"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc96"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc97",
+    "tmdbId": 94605,
+    "mediaType": "tv",
+    "title": "Arcane",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc98"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc99"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc9a"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8cc9b"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc9c",
+    "tmdbId": 1429,
+    "mediaType": "tv",
+    "title": "Attack on Titan",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cc9d"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cc9e"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cc9f"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc19",
+    "tmdbId": 28,
+    "mediaType": "movie",
+    "title": "Apocalypse Now",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cc1a"
+      },
+      {
+        "id": 10752,
+        "name": "War",
+        "_id": "6aeb6a0a3e6b08e695f8cc1b"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cca4",
+    "tmdbId": 30991,
+    "mediaType": "tv",
+    "title": "Cowboy Bebop",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cca5"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cca6"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8cca7"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cca8",
+    "tmdbId": 31911,
+    "mediaType": "tv",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cca9"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8ccaa"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8ccab"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy",
+        "_id": "6aeb6a0a3e6b08e695f8ccac"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccad",
+    "tmdbId": 4613,
+    "mediaType": "tv",
+    "title": "Band of Brothers",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8ccae"
+      },
+      {
+        "id": 10752,
+        "name": "War",
+        "_id": "6aeb6a0a3e6b08e695f8ccaf"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cc23",
+    "tmdbId": 539,
+    "mediaType": "movie",
+    "title": "Psycho",
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror",
+        "_id": "6aeb6a0a3e6b08e695f8cc24"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cc25"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cc26"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccb3",
+    "tmdbId": 95557,
+    "mediaType": "tv",
+    "title": "Invincible",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8ccb4"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8ccb5"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8ccb6"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccb7",
+    "tmdbId": 19885,
+    "mediaType": "tv",
+    "title": "Sherlock",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8ccb8"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8ccb9"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8ccba"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccbb",
+    "tmdbId": 42009,
+    "mediaType": "tv",
+    "title": "Black Mirror",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8ccbc"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8ccbd"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8ccbe"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccbf",
+    "tmdbId": 65494,
+    "mediaType": "tv",
+    "title": "The Crown",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8ccc0"
+      },
+      {
+        "id": 36,
+        "name": "History",
+        "_id": "6aeb6a0a3e6b08e695f8ccc1"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cccd",
+    "tmdbId": 82856,
+    "mediaType": "tv",
+    "title": "The Mandalorian",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8ccce"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8cccf"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8ccd0"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccc6",
+    "tmdbId": 126308,
+    "mediaType": "tv",
+    "title": "Shōgun",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8ccc7"
+      },
+      {
+        "id": 36,
+        "name": "History",
+        "_id": "6aeb6a0a3e6b08e695f8ccc8"
+      },
+      {
+        "id": 10752,
+        "name": "War",
+        "_id": "6aeb6a0a3e6b08e695f8ccc9"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccc2",
+    "tmdbId": 93405,
+    "mediaType": "tv",
+    "title": "Squid Game",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8ccc3"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8ccc4"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8ccc5"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccca",
+    "tmdbId": 63351,
+    "mediaType": "tv",
+    "title": "Narcos",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime",
+        "_id": "6aeb6a0a3e6b08e695f8cccb"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8cccc"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccd1",
+    "tmdbId": 83867,
+    "mediaType": "tv",
+    "title": "Andor",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8ccd2"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8ccd3"
+      },
+      {
+        "id": 12,
+        "name": "Adventure",
+        "_id": "6aeb6a0a3e6b08e695f8ccd4"
+      },
+      {
+        "id": 18,
+        "name": "Drama",
+        "_id": "6aeb6a0a3e6b08e695f8ccd5"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8cca0",
+    "tmdbId": 46298,
+    "mediaType": "tv",
+    "title": "Death Note",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation",
+        "_id": "6aeb6a0a3e6b08e695f8cca1"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery",
+        "_id": "6aeb6a0a3e6b08e695f8cca2"
+      },
+      {
+        "id": 53,
+        "name": "Thriller",
+        "_id": "6aeb6a0a3e6b08e695f8cca3"
+      }
+    ]
+  },
+  {
+    "_id": "6aeb6a0a3e6b08e695f8ccb0",
+    "tmdbId": 76479,
+    "mediaType": "tv",
+    "title": "The Boys",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction",
+        "_id": "6aeb6a0a3e6b08e695f8ccb1"
+      },
+      {
+        "id": 28,
+        "name": "Action",
+        "_id": "6aeb6a0a3e6b08e695f8ccb2"
+      }
+    ]
+  }
+]

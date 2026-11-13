@@ -67,7 +67,7 @@ exports.getTopFive = async (req, res) => {
 
 exports.getMedia = async (req, res) => {
   try {
-    const media = await Media.findById(req.params.id);
+    const media = await Media.findById(req.params.id).populate('reviews');
 
     if (!media) {
       return res.status(404).json({

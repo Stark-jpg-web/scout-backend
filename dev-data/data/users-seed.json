@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6ae73bccd6c6032fd5d842d5",
+    "name": "Elena Rostova",
+    "email": "elena.rostova@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "role": "user"
+  },
+  {
+    "_id": "6ae73bccd6c6032fd5d842d6",
+    "name": "Marcus Brody",
+    "email": "marcus.brody@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "role": "user"
+  },
+  {
+    "_id": "6ae73bccd6c6032fd5d842d7",
+    "name": "Sophia Chen",
+    "email": "sophia.chen@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "role": "user"
+  },
+  {
+    "_id": "6ae73bccd6c6032fd5d842d8",
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "role": "user"
+  },
+  {
+    "_id": "6ae73bccd6c6032fd5d842d9",
+    "name": "Tariq Mansoor",
+    "email": "tariq.mansoor@example.com",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "role": "user"
+  }
+]
