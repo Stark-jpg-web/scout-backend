@@ -21,16 +21,26 @@ const userSchema = new mongoose.Schema({
     required: [true, 'Please provide your password'],
     trim: true,
     minlength: [8, 'Your password must be at least 8 characters long'],
-    maxlength: [12, 'Your password must not exceed 12 characters'],
+    maxlength: [128, 'Your password must not exceed 128 characters'],
+    select: false,
   },
   passwordConfirm: {
     type: String,
     required: [true, 'Please provide your password confirm'],
     trim: true,
+    minlength: [8, 'Your password must be at least 8 characters long'],
+    maxlength: [128, 'Your password must not exceed 128 characters'],
+    select: false,
+    validate: {
+      validator: function (el) {
+        return el === this.password;
+      },
+      message: `Password and passwordConfirm do not match`,
+    },
   },
   role: {
     type: String,
-    enum: ['user', 'guide', 'admin'],
+    enum: ['user', 'moderator', 'admin'],
     default: 'user',
   },
 });

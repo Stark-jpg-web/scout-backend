@@ -1,6 +1,16 @@
 const mongoose = require('mongoose');
-require('./reviewModel');
 const slugify = require('slugify');
+
+// Ensure Review model is compiled for virtual populate
+require('./reviewModel');
+
+const genreSchema = new mongoose.Schema(
+  {
+    id: { type: Number, required: true },
+    name: { type: String, required: true, trim: true },
+  },
+  { _id: false },
+);
 
 const mediaSchema = new mongoose.Schema(
   {
@@ -8,7 +18,6 @@ const mediaSchema = new mongoose.Schema(
       type: Number,
       required: [true, 'A media item must have a TMDB ID'],
       unique: true,
-      index: true,
     },
     mediaType: {
       type: String,
@@ -23,7 +32,10 @@ const mediaSchema = new mongoose.Schema(
       required: [true, 'A media item must have a title'],
       trim: true,
     },
-    slug: String,
+    slug: {
+      type: String,
+      index: true,
+    },
     originalTitle: {
       type: String,
       trim: true,
@@ -47,26 +59,23 @@ const mediaSchema = new mongoose.Schema(
       trim: true,
     },
     releaseDate: {
-      type: String,
-      trim: true,
+      type: Date,
+      // Sanitizes empty string returns from TMDB API to prevent CastErrors
+      set: (val) => (val === '' ? null : val),
     },
     voteAverage: {
       type: Number,
       default: 0,
       min: [0, 'Rating must be above or equal to 0'],
       max: [10, 'Rating must be below or equal to 10'],
+      set: (val) => Math.round(val * 10) / 10,
     },
     voteCount: {
       type: Number,
       default: 0,
       min: [0, 'Vote count cannot be negative'],
     },
-    genres: [
-      {
-        id: Number,
-        name: String,
-      },
-    ],
+    genres: [genreSchema],
     runtime: Number,
     numberOfSeasons: Number,
     numberOfEpisodes: Number,
@@ -81,11 +90,6 @@ const mediaSchema = new mongoose.Schema(
       default: Date.now,
       index: true,
     },
-    createdAt: {
-      type: Date,
-      default: Date.now,
-      select: false,
-    },
   },
   {
     timestamps: true,
@@ -94,15 +98,32 @@ const mediaSchema = new mongoose.Schema(
   },
 );
 
-// Virtual populate for reviews
+// --- INDEXES ---
+// Compound index for optimizing catalog filtering and sorting queries
+mediaSchema.index({ mediaType: 1, voteAverage: -1 });
+mediaSchema.index({ releaseDate: -1 });
+
+// --- VIRTUAL FIELDS ---
+// Virtual populate for reviews associated with this media
 mediaSchema.virtual('reviews', {
   ref: 'Review',
   foreignField: 'mediaId',
   localField: 'tmdbId',
 });
-//document middleware to extract the slug(url)from the name;
-mediaSchema.pre('save', function () {
-  this.slug = slugify(this.title, { lower: true });
+
+// Convenient virtual for extract-only release year
+mediaSchema.virtual('releaseYear').get(function () {
+  if (!this.releaseDate) return null;
+  return this.releaseDate.getFullYear();
+});
+
+// --- DOCUMENT MIDDLEWARE ---
+// Document middleware: Generate URL-safe slug from title before saving
+mediaSchema.pre('save', function (next) {
+  if (!this.isModified('title')) return next();
+
+  this.slug = slugify(this.title, { lower: true, strict: true });
+  next();
 });
 
 const Media = mongoose.model('Media', mediaSchema);
