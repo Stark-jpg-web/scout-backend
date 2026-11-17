@@ -114,16 +114,15 @@ mediaSchema.virtual('reviews', {
 // Convenient virtual for extract-only release year
 mediaSchema.virtual('releaseYear').get(function () {
   if (!this.releaseDate) return null;
-  return this.releaseDate.getFullYear();
+  return new Date(this.releaseDate).getFullYear();
 });
 
 // --- DOCUMENT MIDDLEWARE ---
 // Document middleware: Generate URL-safe slug from title before saving
-mediaSchema.pre('save', function (next) {
+mediaSchema.pre('save', function () {
   if (!this.isModified('title')) return next();
 
   this.slug = slugify(this.title, { lower: true, strict: true });
-  next();
 });
 
 const Media = mongoose.model('Media', mediaSchema);

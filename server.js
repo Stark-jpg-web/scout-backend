@@ -7,19 +7,15 @@ const DB_PATH = process.env.DATABASE.replace(
   '<DB_PASSWORD>',
   process.env.DATABASE_PASSWORD,
 );
-const connectToMongoDB = async () => {
-  try {
-    await mongoose.connect(DB_PATH);
-    console.log('You successfully connected to MongoDB!');
-  } catch (err) {
-    console.dir(err);
-  }
+const connectToMongoDB = () => {
+  mongoose.connect(DB_PATH).then(()=>console.log('You successfully connected to MongoDB!'));
+  
 };
 connectToMongoDB();
 
 const port = process.env.PORT || 8000;
 
-app.listen(port, () => {
+const server = app.listen(port, () => {
   const mode =
     process.env.NODE_ENV === 'development'
       ? 'DEVELOPMENT mode 🛠️'
@@ -32,3 +28,11 @@ exports.disconnectFromMongoDB = async () => {
   await mongoose.disconnect();
   console.log('You successfully disconnected from MongoDB!');
 };
+
+//handle unhandled rejections
+process.on('unhandledRejection', (err) => {
+  console.log(
+    `A rejection detected. Name: ${err.name}.. Message:${err.message}`,
+  );
+  server.close(() => process.exit(1));
+});
