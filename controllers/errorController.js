@@ -25,6 +25,7 @@ const sendErrorDev = (err, res) => {
     status: err.status,
     message: err.message,
     error: err,
+    stack: err.stack,
   });
 };
 //only sending operational (eg: userInput) erros to the client
