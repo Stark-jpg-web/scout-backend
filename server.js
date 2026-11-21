@@ -3,13 +3,21 @@ const mongoose = require('mongoose');
 process.loadEnvFile('./.env.local');
 const app = require('./app');
 
+process.on('uncaughtException', (err) => {
+  console.log(
+    `An uncaught exception occured. Name: ${err.name}.. Message:${err.message}`,
+  );
+  process.exit(1);
+});
+
 const DB_PATH = process.env.DATABASE.replace(
   '<DB_PASSWORD>',
   process.env.DATABASE_PASSWORD,
 );
 const connectToMongoDB = () => {
-  mongoose.connect(DB_PATH).then(()=>console.log('You successfully connected to MongoDB!'));
-  
+  mongoose
+    .connect(DB_PATH)
+    .then(() => console.log('You successfully connected to MongoDB!'));
 };
 connectToMongoDB();
 
@@ -36,3 +44,4 @@ process.on('unhandledRejection', (err) => {
   );
   server.close(() => process.exit(1));
 });
+
