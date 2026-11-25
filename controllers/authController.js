@@ -55,7 +55,6 @@ exports.protect = catchAsync(async (req, res, next) => {
   ) {
     token = req.headers.authorization.split(' ')[1];
   }
-  console.log(token);
 
   //verify token
   if (!token) {
@@ -63,15 +62,25 @@ exports.protect = catchAsync(async (req, res, next) => {
     return;
   }
   const decoded = await promisify(jwt.verify)(token, process.env.JWT_SECRET);
-  console.log(decoded);
+
   //verify if user exists
   const freshUser = await User.findById(decoded.id);
 
   if (!freshUser) {
-    next(new AppError('This user connected to this token dose not exist', 401));
+    next(new AppError('This user connected to this token does not exist', 401));
     return;
   }
 
   //verify if pass has changed
+  if (freshUser.changedPasswordAfter(decoded.iat)) {
+    return next(
+      new AppError(
+        'the user has changed their password after the jwt was issued',
+        401,
+      ),
+    );
+  }
+  //if all previous conditions were passed then user shall be granted access
+  req.user = freshUser;
   next();
 });

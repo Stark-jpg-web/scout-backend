@@ -42,6 +42,7 @@ const userSchema = new mongoose.Schema(
         message: `Password and passwordConfirm do not match`,
       },
     },
+    changedPasswordAt: Date,
     role: {
       type: String,
       enum: ['user', 'moderator', 'admin'],
@@ -62,6 +63,7 @@ userSchema.pre('save', async function () {
   if (!this.isModified('password')) {
     return;
   }
+  if (!this.isNew) this.changedPasswordAt = Date.now() - 1000;
   this.password = await bcrypt.hash(this.password, 12);
   this.passwordConfirm = undefined;
 });
@@ -73,6 +75,18 @@ userSchema.methods.correctPassword = async function (
   return await bcrypt.compare(candidatePassword, userPassword);
 };
 
+userSchema.methods.changedPasswordAfter = function (JWTTimeStamp) {
+  //we need here to compare the jwt time stamp along with the changed password at if the jwttimestamp is less the changed password at the time stamp the user shouldn't be granted access
+  if (this.changedPasswordAt) {
+    const changedPasswordTimeStamp = parseInt(
+      this.changedPasswordAt.getTime() / 1000,
+      10,
+    );
+    console.log(JWTTimeStamp, changedPasswordTimeStamp);
+    return JWTTimeStamp < changedPasswordTimeStamp; // if true user changed his password
+  }
+  return false;
+};
 const User = mongoose.model('User', userSchema);
 
 module.exports = User;
